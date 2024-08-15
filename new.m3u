@@ -182,7 +182,5 @@ http://195.158.222.115:8000/play/a039/index.m3u8
 http://185.78.112.17/ru-tv/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://only4.tv/ch/2119.png" group-title="МУЗЫКАЛЬНЫЕ", BRIDGE TV РУССКИЙ ХИТ
 http://185.78.112.17/rusong/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=""group-title="МУЛЬТФИЛЬМ И АНИМЕ", Sunset Anime
-https://stream.sunset-media.ru/Free/Free/5.m3u8
 #EXTINF:-1  tvg-id="animetv" tvg-logo="https://epgx.site/p/animetv.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", AnimeTV
 http://hls.peers.tv/streaming/animetv/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjM4MjA0NzUsImlhdCI6MTcyMzczNDA3NSwiY2lkIjo2LCJ1aWQiOjgwODc3NDk4OCwicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.1eJiI8T6C7OA8zNKd8JfHq0aCUr2hg4zs4jRltTWMDI&offset=3
