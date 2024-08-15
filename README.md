@@ -2,7 +2,7 @@
 <html class="client-nojs" lang="ru" dir="ltr">
     <body>
         <h1><div class="title">IPTVru</h1>
- <div class="box-text"><a href="https://smolnp.github.io/IPTVru//IPTVru.m3u" target="_blank">https://smolnp.github.io/IPTVru//IPTVru.m3u</a></div>
+ <div class="box-text"><a href="https://goltinos.github.io/golt/" target="_blank">название </a></div>
     <p>Количество каналов</p>
 </body>
 </html>
