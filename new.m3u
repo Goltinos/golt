@@ -183,6 +183,7 @@ http://185.78.112.17/ru-tv/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://only4.tv/ch/2119.png" group-title="МУЗЫКАЛЬНЫЕ", BRIDGE TV РУССКИЙ ХИТ
 http://185.78.112.17/rusong/index.m3u8
 #EXTINF:-1  tvg-id="animetv" tvg-logo="https://epgx.site/p/animetv.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", AnimeTV
-http://hls.peers.tv/streaming/animetv/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjM4MjA0NzUsImlhdCI6MTcyMzczNDA3NSwiY2lkIjo2LCJ1aWQiOjgwODc3NDk4OCwicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.1eJiI8T6C7OA8zNKd8JfHq0aCUr2hg4zs4jRltTWMDI&offset=3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; NX505J Build/KVT49L)
+http://mhd.iptv2022.com/p/gEcjSo2iX7t0kuXvTXXLgQ,1723901287/streaming/anime_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://epgx.site/p/vhs-ka.png" group-title="КИНО И СЕРИАЛЫ", VHS-ка HD
 http://88.218.242.237:8000/play/a00x
