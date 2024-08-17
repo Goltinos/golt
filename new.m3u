@@ -175,7 +175,7 @@ http://hls127.homeiptv.org:8880/Clarity4K_Anime/video.m3u8
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://195.158.222.115:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN HD
-http://arbiter.bolshoe.tv/?path=abr3/fan_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI0IDY6NTg6NDcgQU0maGFzaF92YWx1ZT12UzIxRzMzUVhOR052K0FNU2hyOFJ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://srv-5-streaming.iptvin.fun:34768/fan/video.m3u8?token=38d012dd164a5a0fae8dd0c78609b9b538de7977-10943158095-1723929844-1723886644
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://195.158.222.115:8000/play/a039/index.m3u8
 #EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="МУЗЫКАЛЬНЫЕ", RU.TV
