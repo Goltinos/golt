@@ -24,8 +24,6 @@ http://185.78.112.17/pyatnica_hd/index.m3u8
 http://195.158.222.115:8000/play/5/index.m3u8
 #EXTINF:-1 tvg-id="che" tvg-logo="https://epgx.site/p/che.png" group-title="РОССИЯ", ЧЕ
 http://185.112.140.28:80/Che/index.m3u8
-#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png" group-title="РОССИЯ", НТВ СЕРИАЛ
-http://185.78.112.17/ntv_serial/index.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://epgx.site/p/domkino.png" group-title="РУССКОЕ КИНО", ДОМ КИНО
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
