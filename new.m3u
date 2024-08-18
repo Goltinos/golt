@@ -175,7 +175,8 @@ http://hls127.homeiptv.org:8880/Clarity4K_Anime/video.m3u8
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://195.158.222.115:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN HD
-http://srv-5-streaming.iptvin.fun:34768/fan/video.m3u8?token=38d012dd164a5a0fae8dd0c78609b9b538de7977-10943158095-1723929844-1723886644
+#EXTVLCOPT:http-user-agent=http User-Agent
+https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://195.158.222.115:8000/play/a039/index.m3u8
 #EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="МУЗЫКАЛЬНЫЕ", RU.TV
@@ -183,7 +184,7 @@ http://185.78.112.17/ru-tv/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://only4.tv/ch/2119.png" group-title="МУЗЫКАЛЬНЫЕ", BRIDGE TV РУССКИЙ ХИТ
 http://185.78.112.17/rusong/index.m3u8
 #EXTINF:-1  tvg-id="animetv" tvg-logo="https://epgx.site/p/animetv.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", AnimeTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; NX505J Build/KVT49L)
-http://mhd.iptv2022.com/p/gEcjSo2iX7t0kuXvTXXLgQ,1723901287/streaming/anime_tv/324/1/index.m3u8
+#EXTVLCOPT:http-user-agent=http User-Agent
+http://mhd.iptv2022.com/p/k2HbncJxcEzfeXOR98mt3Q,1724004118/streaming/anime_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://epgx.site/p/vhs-ka.png" group-title="КИНО И СЕРИАЛЫ", VHS-ка HD
 http://88.218.242.237:8000/play/a00x
