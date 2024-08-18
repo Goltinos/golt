@@ -36,8 +36,6 @@ https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 http://91.205.199.3/mosfilm/index.m3u8
 #EXTINF:-1  tvg-id="cineman-rukino" tvg-logo="https://epgx.site/p/cineman-rukino.png" group-title="РУССКОЕ КИНО", CINEMAN РУССКОЕ КИНО
 http://195.158.222.115:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="filmzone" tvg-logo="http://www.widemedia.tv/wp-content/uploads/2016/02/filmzone_transp-150x150.png" group-title="КИНО И СЕРИАЛЫ", FILMZONE
-http://81.198.190.9:7878/FilmZone/video.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-logo="https://i.postimg.cc/MGCX0vsw/32ab82bb736529ba8d537d320284db87.png" group-title="КИНО И СЕРИАЛЫ", БЛОКБАСТЕР HD
 http://hls127.homeiptv.org:8880/Blockbaster_HD/video.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA HD
@@ -55,11 +53,11 @@ http://94.232.104.237:8011/tv1000action/index.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY HD
 http://185.112.140.28:80/VIPComedy/index.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
-http://iptv.mega.net.ru:8888/ViP_Megahit_HD/mono.m3u8
+http://iptv.mega.net.ru:8888/ViP_Comedy_HD/mono.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
 http://91.205.199.3/vipmegahit/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT
-http://185.177.112.234:8000/play/a03f
+http://iptv.mega.net.ru:8888/ViP_Megahit_HD/mono.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://epgx.site/p/vip-premiere.png" group-title="КИНО И СЕРИАЛЫ", VIP PREMIERE HD
 rtmp://185.26.157.3/live//vip_premiere_hd
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://epgx.site/p/vip-premiere.png" group-title="КИНО И СЕРИАЛЫ", VIP PREMIERE
