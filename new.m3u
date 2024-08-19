@@ -180,7 +180,7 @@ http://185.78.112.17/ru-tv/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://only4.tv/ch/2119.png" group-title="МУЗЫКАЛЬНЫЕ", BRIDGE TV РУССКИЙ ХИТ
 http://185.78.112.17/rusong/index.m3u8
 #EXTINF:-1  tvg-id="animetv" tvg-logo="https://epgx.site/p/animetv.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", AnimeTV
-#EXTVLCOPT:http-user-agent=http User-Agent
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://mhd.iptv2022.com/p/k2HbncJxcEzfeXOR98mt3Q,1724004118/streaming/anime_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://epgx.site/p/vhs-ka.png" group-title="КИНО И СЕРИАЛЫ", VHS-ка HD
 http://88.218.242.237:8000/play/a00x
