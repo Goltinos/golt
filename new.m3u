@@ -106,9 +106,6 @@ http://188.190.222.48:8765/Kinosat/tracks-v1a1/mono.m3u8
 http://u.vipl.one/high/x9scda3iu7/128.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/311.jpg" group-title="КИНО И СЕРИАЛЫ", МУЖСКОЕ КИНО
 http://91.207.114.220:9001/play/a04t/index.m3u8
-#EXTINF:-1 tvg-id="vip-comedy-cee" tvg-logo="https://i.ibb.co/T801vKH/c253421f971beb6a69910bf66bc1bafb.png" group-title="КИНО И СЕРИАЛЫ", VIASAT KINO COMEDY
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://cdn.klimedia.online/lb/ViP-Comedy-HD-CEE/index.m3u8?token=klimedia.space:ZGltb25nYWQ6UGFyb2xPdEtsaTI2
 #EXTINF:-1 tvg-id="komedijnoe-hd" tvg-logo="http://only4.tv/ch/0120.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЙНОЕ HD
 http://iptv.mega.net.ru:8888/Kinopokaz_HD_2/mono.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
@@ -181,5 +178,5 @@ http://mhd.iptv2022.com/p/YURgxhjloawDpnE65-Cvcw,1724252060/streaming/anime_tv/3
 http://88.218.242.237:8000/play/a00x
 #EXTINF:-1  tvg-id="cineman-rukino" tvg-logo="https://epgx.site/p/cineman-rukino.png" group-title="РУССКОЕ КИНО", CINEMAN РУССКОЕ КИНО
 http://u.vipl.one/high/x9scda3iu7/1264.m3u8
-#EXTINF:-1 tvg-id="clarity4k-anime" tvg-logo="https://epgx.site/p/clarity4k-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CLARITY4K ANIME 2
+#EXTINF:-1 tvg-id="clarity4k-anime" tvg-logo="https://epgx.site/p/clarity4k-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CLARITY4K ANIME
 http://u.vipl.one/high/x9scda3iu7/1660.m3u8
