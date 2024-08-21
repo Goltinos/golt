@@ -19,7 +19,7 @@ http://iptv.mega.net.ru:8888/CTC_HD/mono.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://epgx.site/p/tv3-ru.png" group-title="РОССИЯ", ТВ3 HD
 http://91.207.114.220:9001/play/a0e1/index.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png" group-title="РОССИЯ", ПЯТНИЦА HD
-https://salam-2-9.rutube.ru/dive/river-5-511.rutube.ru/WEsYz2t2icFkzdFcT71gwA/stream/musang-702.brz.rutube.ru/EkLAlRnsFd0RMLwYrMHpCw/1724430639/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+http://u.vipl.one/high/x9scda3iu7/35.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png" group-title="РОССИЯ", ПЯТЫЙ КАНАЛ
 http://iptv.mega.net.ru:8888/Peterburg_5_kanal/mono.m3u8
 #EXTINF:-1 tvg-id="che" tvg-logo="https://epgx.site/p/che.png" group-title="РОССИЯ", ЧЕ
@@ -43,7 +43,7 @@ http://185.112.140.28:80/Cinema/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000 HD
 http://iptv.mega.net.ru:8888/TV1000_HD/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000
-http://94.232.104.237:8011/tv1000/index.m3u8
+http://u.vipl.one/high/x9scda3iu7/103.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION HD
 http://iptv.mega.net.ru:8888/TV1000_Action_HD/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
