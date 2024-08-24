@@ -19,7 +19,7 @@ http://iptv.mega.net.ru:8888/CTC_HD/mono.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://epgx.site/p/tv3-ru.png" group-title="РОССИЯ", ТВ3 HD
 http://91.207.114.220:9001/play/a0e1/index.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png" group-title="РОССИЯ", ПЯТНИЦА HD
-http://u.vipl.one/high/x9scda3iu7/35.m3u8
+http://94.232.104.237:8011/pyatnica/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png" group-title="РОССИЯ", ПЯТЫЙ КАНАЛ
 http://iptv.mega.net.ru:8888/Peterburg_5_kanal/mono.m3u8
 #EXTINF:-1 tvg-id="che" tvg-logo="https://epgx.site/p/che.png" group-title="РОССИЯ", ЧЕ
@@ -43,7 +43,7 @@ http://185.112.140.28:80/Cinema/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000 HD
 http://iptv.mega.net.ru:8888/TV1000_HD/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000
-http://u.vipl.one/high/x9scda3iu7/103.m3u8
+http://94.232.104.237:8011/tv1000/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION HD
 http://iptv.mega.net.ru:8888/TV1000_Action_HD/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
@@ -153,7 +153,7 @@ http://185.112.140.28:80/TNT4/index.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://s3.spbtv.com/rosing-production/80d3d63b673986b5093f_250x250c.png" group-title="МЕЛОДРАМА", РУССКИЙ ИЛЛЮЗИОН
 http://u.vipl.one/high/x9scda3iu7/138.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://only4.tv/ch/424.png" group-title="МЕЛОДРАМА", РУССКИЙ РОМАН HD
-https://hls.bemtv.t62a.com/hls2/YF0zPMOF/1724312524/9shMGYzfcYeml2a3KgT9Tg/stream717/stream0.m3u8
+http://u.vipl.one/high/x9scda3iu7/416.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
 http://u.vipl.one/high/x9scda3iu7/135.m3u8
 #EXTINF:-1 tvg-id="4780" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/d/da/Логотип_платформы_Смотрим.svg" group-title="МЕЛОДРАМА", СМОТРИМ
@@ -173,7 +173,7 @@ https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:-1  tvg-id="animetv" tvg-logo="https://epgx.site/p/animetv.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", AnimeTV
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://mhd.iptv2022.com/p/54i9VGgg6lZVQtuwgXo19g,1724330188/streaming/anime_tv/324/1/index.m3u8
+http://mhd.iptv2022.com/p/0u__2kYFQESP4wxIfDn1nQ,1724567545/streaming/anime_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://epgx.site/p/vhs-ka.png" group-title="КИНО И СЕРИАЛЫ", VHS-ка HD
 http://88.218.242.237:8000/play/a00x
 #EXTINF:-1  tvg-id="cineman-rukino" tvg-logo="https://epgx.site/p/cineman-rukino.png" group-title="РУССКОЕ КИНО", CINEMAN РУССКОЕ КИНО
