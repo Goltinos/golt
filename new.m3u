@@ -177,3 +177,11 @@ http://88.218.242.237:8000/play/a00x
 http://u.vipl.one/high/x9scda3iu7/1264.m3u8
 #EXTINF:-1 tvg-id="clarity4k-anime" tvg-logo="https://epgx.site/p/clarity4k-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CLARITY4K ANIME
 http://u.vipl.one/high/x9scda3iu7/1660.m3u8
+#EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://epgx.site/p/russian-musicbox.png" group-title="МУЗЫКАЛЬНЫЕ", Russian MusicBox
+http://146.158.0.56/RussianMusicBox/mono.m3u8
+#EXTINF:-1 tvg-id="clarity4k-fantastik" tvg-logo="https://epgx.site/p/clarity4k-fantastik.png" group-title="КИНО И СЕРИАЛЫ", Clarity4K Fantastic
+http://hls127.homeiptv.org:8880/Clarity4K_Fantastic/video.m3u8
+#EXTINF:-1 tvg-id="4780" tvg-logo="123.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Sunset Anime
+https://stream.sunset-media.ru/Free/Free/5.m3u8
+#EXTINF:-1 tvg-id="clarity4k-waltdisney" tvg-logo="https://epgx.site/p/clarity4k-waltdisney.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Clarity4K Walt Disney
+http://hls127.homeiptv.org:8880/Clarity4K_Walt_Disney/video.m3u8
