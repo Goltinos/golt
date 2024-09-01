@@ -152,10 +152,16 @@ http://iptv.mega.net.ru:8888/Sarafan/mono.m3u8
 http://185.112.140.28:80/TNT4/index.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://s3.spbtv.com/rosing-production/80d3d63b673986b5093f_250x250c.png" group-title="МЕЛОДРАМА", РУССКИЙ ИЛЛЮЗИОН
 http://u.vipl.one/high/x9scda3iu7/138.m3u8
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://s3.spbtv.com/rosing-production/80d3d63b673986b5093f_250x250c.png" group-title="МЕЛОДРАМА", РУССКИЙ ИЛЛЮЗИОН
+http://5.153.180.133:8004/play/a04v
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://only4.tv/ch/424.png" group-title="МЕЛОДРАМА", РУССКИЙ РОМАН HD
 http://u.vipl.one/high/x9scda3iu7/416.m3u8
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://only4.tv/ch/424.png" group-title="МЕЛОДРАМА", РУССКИЙ РОМАН HD
+http://178.68.212.227:81/play/a002
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
 http://u.vipl.one/high/x9scda3iu7/135.m3u8
+#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
+http://5.153.180.133:8004/play/a04w
 #EXTINF:-1 tvg-id="4780" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/d/da/Логотип_платформы_Смотрим.svg" group-title="МЕЛОДРАМА", СМОТРИМ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="4780" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/d/da/Логотип_платформы_Смотрим.svg" group-title="МЕЛОДРАМА", СМОТРИМ 2
@@ -180,6 +186,7 @@ http://u.vipl.one/high/x9scda3iu7/1660.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://epgx.site/p/russian-musicbox.png" group-title="МУЗЫКАЛЬНЫЕ", Russian MusicBox
 http://146.158.0.56/RussianMusicBox/mono.m3u8
 #EXTINF:-1 tvg-id="4780" tvg-logo="123.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Sunset Anime
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 https://stream.sunset-media.ru/Free/Free/5.m3u8
 #EXTINF:-1 tvg-id="clarity4k-waltdisney" tvg-logo="https://epgx.site/p/clarity4k-waltdisney.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Clarity4K Walt Disney
 http://hls127.homeiptv.org:8880/Clarity4K_Walt_Disney/video.m3u8
