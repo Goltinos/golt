@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE/epg_lite.xml.gz" tvg-shift="+0"
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="РОССИЯ", ПЕРВЫЙ HD
-https://stream2.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+http://iptv.mega.net.ru:8888/Pervii_Kanal_HD/mono.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="РОССИЯ", РОССИЯ 1 HD
 http://91.90.255.235:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://epgx.site/p/tvcentr.png" group-title="РОССИЯ", ТВЦ
@@ -31,7 +31,7 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epgx.site/p/tv1000-russkoe-kino.png" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epgx.site/p/tv1000-russkoe-kino.png" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
-https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+http://iptv.mega.net.ru:8888/TV1000_Russkoe_kino/mono.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://epgx.site/p/mosfilm.png" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://91.205.199.3/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-logo="https://i.postimg.cc/MGCX0vsw/32ab82bb736529ba8d537d320284db87.png" group-title="КИНО И СЕРИАЛЫ", БЛОКБАСТЕР HD
@@ -43,11 +43,11 @@ http://185.112.140.28:80/Cinema/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000 HD
 http://iptv.mega.net.ru:8888/TV1000_HD/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000
-http://94.232.104.237:8011/tv1000/index.m3u8
+http://5.153.180.133:8005/play/o00125
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION HD
 http://iptv.mega.net.ru:8888/TV1000_Action_HD/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
-http://94.232.104.237:8011/tv1000action/index.m3u8
+http://iptv.mega.net.ru:8888/TV1000_Action/mono.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY HD
 http://185.112.140.28:80/VIPComedy/index.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
@@ -67,11 +67,11 @@ http://185.112.140.28:80/Kino_TV/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ HD
 rtmp://5.182.229.90//7248
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ
-http://94.232.104.237:8011/komediyatv/index.m3u8
+http://5.153.180.133:8005/play/o00132
 #EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://i.ibb.co/MN20710/2ee2595bb04c6ab017b459d7c230ad441.png" group-title="КИНО И СЕРИАЛЫ", КИНОМИКС HD
 rtmp://5.182.229.90//7249
 #EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://i.ibb.co/MN20710/2ee2595bb04c6ab017b459d7c230ad441.png" group-title="КИНО И СЕРИАЛЫ", КИНОМИКС
-http://185.112.140.28:80/Kinomiks/index.m3u8
+http://91.207.114.220:9001/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ HD
 http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
@@ -79,7 +79,7 @@ http://185.112.140.28:80/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://i.ibb.co/t88SCg0/kinopremera-hd.png" group-title="КИНО И СЕРИАЛЫ", КИНОПРЕМЬЕРА HD
 http://185.112.140.28:80/Kinopremera/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://i.ibb.co/t88SCg0/kinopremera-hd.png" group-title="КИНО И СЕРИАЛЫ", КИНОПРЕМЬЕРА
-https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+http://91.205.199.3/kinopremerahd/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://i.ibb.co/hMrVYMg/kinosvidanie.png" group-title="КИНО И СЕРИАЛЫ", КИНОСВИДАНИЕ HD
 rtmp://5.182.229.90//7245
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://i.ibb.co/hMrVYMg/kinosvidanie.png" group-title="КИНО И СЕРИАЛЫ", КИНОСВИДАНИЕ
@@ -91,7 +91,7 @@ http://91.207.114.220:9001/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-logo="https://i.ibb.co/9hmCp2g/kinoseriya.png" group-title="КИНО И СЕРИАЛЫ", КИНОСЕРИЯ HD
 http://hls127.homeiptv.org:8880/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-logo="https://i.ibb.co/9hmCp2g/kinoseriya.png" group-title="КИНО И СЕРИАЛЫ", КИНОСЕРИЯ
-http://94.232.104.237:8011/kinoseriya/index.m3u8
+http://5.153.180.133:8005/play/o00136
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="http://only4.tv/ch/5570.png" group-title="КИНО И СЕРИАЛЫ", КИНОУЖАС HD
 http://185.112.140.28:80/Kinouzhas/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-logo="http://only4.tv/ch/5570.png" group-title="КИНО И СЕРИАЛЫ", КИНОУЖАС
@@ -151,13 +151,13 @@ http://iptv.mega.net.ru:8888/Sarafan/mono.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://i.ibb.co/FqyWv9L/tht4.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ4
 http://185.112.140.28:80/TNT4/index.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://s3.spbtv.com/rosing-production/80d3d63b673986b5093f_250x250c.png" group-title="МЕЛОДРАМА", РУССКИЙ ИЛЛЮЗИОН
-http://u.vipl.one/high/x9scda3iu7/138.m3u8
+http://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://s3.spbtv.com/rosing-production/80d3d63b673986b5093f_250x250c.png" group-title="МЕЛОДРАМА", РУССКИЙ ИЛЛЮЗИОН
 http://5.153.180.133:8004/play/a04v
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://only4.tv/ch/424.png" group-title="МЕЛОДРАМА", РУССКИЙ РОМАН HD
 http://u.vipl.one/high/x9scda3iu7/416.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://only4.tv/ch/424.png" group-title="МЕЛОДРАМА", РУССКИЙ РОМАН HD
-http://178.68.212.227:81/play/a002
+http://5.153.180.133:8004/play/a04y
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
 http://u.vipl.one/high/x9scda3iu7/135.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
@@ -166,6 +166,8 @@ http://5.153.180.133:8004/play/a04w
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="4780" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/d/da/Логотип_платформы_Смотрим.svg" group-title="МЕЛОДРАМА", СМОТРИМ 2
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vf-sled" tvg-logo="https://epgx.site/p/vf-sled.png" group-title="МЕЛОДРАМА", СЛЕД
+https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAwODcxMDAxNSIsImV4cCI6MTcyNTMwMzA5MSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzI0Njk4MjkxLCJzZXNzaW9uX2lkIjoiOWJkMjM4ZDM4ZmI5NzYzNmNhZGYyNDIyNDg4NDgzNjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.LuUuVS0GHlk2kURlL7o8Mvf9LwLykdcuyGOWzG-2FSE
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://u.vipl.one/high/x9scda3iu7/1254.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN HD
@@ -190,3 +192,9 @@ http://146.158.0.56/RussianMusicBox/mono.m3u8
 https://stream.sunset-media.ru/Free/Free/5.m3u8
 #EXTINF:-1 tvg-id="clarity4k-waltdisney" tvg-logo="https://epgx.site/p/clarity4k-waltdisney.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Clarity4K Walt Disney
 http://hls127.homeiptv.org:8880/Clarity4K_Walt_Disney/video.m3u8
+#EXTINF:-1 tvg-id="minimax-walt-disney" tvg-logo="https://epgx.site/p/minimax-walt-disney.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", MM Walt Disney HD
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://str06.ottg.online/3781/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
+#EXTINF:-1 tvg-id="skyhigh-anime" tvg-logo="https://epgx.site/p/skyhigh-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", SKY HIGH ANIME HD
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://str06.ottg.online/7925/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
