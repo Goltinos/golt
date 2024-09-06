@@ -11,7 +11,8 @@ http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="РОССИЯ", ТНТ HD
 http://91.205.199.3/tnthd/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://epgx.site/p/rentv.png" group-title="РОССИЯ", РЕН ТВ
-http://iptv.mega.net.ru:8888/REN_TV/mono.m3u8
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="РОССИЯ", ДОМАШНИЙ HD
 http://iptv.mega.net.ru:8888/domashniy_hd/mono.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="РОССИЯ", СТС HD
