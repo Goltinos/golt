@@ -189,3 +189,6 @@ http://str06.ottg.online/3781/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
 #EXTINF:-1 tvg-id="skyhigh-anime" tvg-logo="https://epgx.site/p/skyhigh-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", SKY HIGH ANIME HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://str06.ottg.online/7925/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
+#EXTINF:-1 tvg-id="4780" tvg-logo="123.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://hls127.homeiptv.org:8880/CPS_Anime/video.m3u8
