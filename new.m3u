@@ -138,7 +138,7 @@ https://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/22022022/logos/41333-6214c74721679.png" group-title="КИНО И СЕРИАЛЫ", СИТИ ЭДЕМ - КИНОЭКШЕН
 https://v2.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.ibb.co/sVJRrqm/KVN-TV-b.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", КВН ТВ
-http://91.205.199.3/kvntv/index.m3u8
+http://91.207.115.228:12000/play/a023
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://i.ibb.co/qyF0n0J/Tvoyo-TV-220x220.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor"tvg-logo="https://i.postimg.cc/wMm8WXyb/e13c75da2663c549198b604af6526247.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD - ЮМОР
