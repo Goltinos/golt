@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE/epg_lite.xml.gz" tvg-shift="+0"
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="РОССИЯ", ПЕРВЫЙ HD
-http://s83.chas.tv:8081/chas/pervyitv-hq.stream/playlist.m3u8
+http://iptv.mega.net.ru:8888/Pervii_Kanal_HD/mono.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="РОССИЯ", РОССИЯ 1 HD
 http://91.90.255.235:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://epgx.site/p/tvcentr.png" group-title="РОССИЯ", ТВЦ
@@ -66,7 +66,7 @@ http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ HD
 rtmp://5.182.229.90//7248
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ
-http://s83.chas.tv:8081/chas/komediya.stream/playlist.m3u8
+http://91.207.114.220:9001/play/a04r/index.m3u8
 #EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://i.ibb.co/MN20710/2ee2595bb04c6ab017b459d7c230ad441.png" group-title="КИНО И СЕРИАЛЫ", КИНОМИКС HD
 rtmp://5.182.229.90//7249
 #EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://i.ibb.co/MN20710/2ee2595bb04c6ab017b459d7c230ad441.png" group-title="КИНО И СЕРИАЛЫ", КИНОМИКС
@@ -144,7 +144,7 @@ http://iptv.mega.net.ru:8888/TNT4/mono.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://s3.spbtv.com/rosing-production/80d3d63b673986b5093f_250x250c.png" group-title="МЕЛОДРАМА", РУССКИЙ ИЛЛЮЗИОН
 http://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://s3.spbtv.com/rosing-production/80d3d63b673986b5093f_250x250c.png" group-title="МЕЛОДРАМА", РУССКИЙ ИЛЛЮЗИОН
-http://s83.chas.tv:8081/chas/rusillyuzion.stream/playlist.m3u8
+http://109.200.130.123:7537/play/a023
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://only4.tv/ch/424.png" group-title="МЕЛОДРАМА", РУССКИЙ РОМАН HD
 http://u.vipl.one/high/x9scda3iu7/416.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://only4.tv/ch/424.png" group-title="МЕЛОДРАМА", РУССКИЙ РОМАН HD
@@ -175,11 +175,3 @@ http://94.230.128.105:8080/MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="4780" tvg-logo="123.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Sunset Anime
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 https://stream.sunset-media.ru/Free/Free/5.m3u8
-#EXTINF:-1 tvg-id="minimax-walt-disney" tvg-logo="https://epgx.site/p/minimax-walt-disney.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", MM Walt Disney HD
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://str06.ottg.online/3781/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
-#EXTINF:-1 tvg-id="skyhigh-anime" tvg-logo="https://epgx.site/p/skyhigh-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", SKY HIGH ANIME HD
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://str06.ottg.online/7925/video.m3u8?token=4a9eba62163dbcf15c802a17757c52cf
-#EXTINF:-1 tvg-id="4780" tvg-logo="123.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Аниме HD
-https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MjIxOTAwODkzMTAxOCIsImV4cCI6MTcyNzUxNDcxOCwiaHdpZCI6ImMwZDNjMGUyN2VkOTE4YTFhMmQ4YmMxOWRlMTVkMjMzODc4ODMyNDg3MWY3NzYxZDBjZTdjY2JmNmQ0ZWE1YTEiLCJsYXN0X3JlcV9kYXRlIjoxNzI2OTA5OTE4LCJzZXNzaW9uX2lkIjoiYmJiZjFjZjgwNWZhNjQ4NzBiMTJkOWEwMDYxOGY3MGIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.4yonG7iTrQ4NPDwRcDIAYP-epfS14sylvyHsLmXrg_Y
