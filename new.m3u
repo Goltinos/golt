@@ -119,12 +119,6 @@ http://u.vipl.one/high/x9scda3iu7/1257.m3u8
 http://u.vipl.one/high/x9scda3iu7/1262.m3u8
 #EXTINF:-1 tvg-id="cineman-uzhasy" tvg-logo="https://epgx.site/p/cineman-uzhasy.png" group-title="КИНО И СЕРИАЛЫ", CINEMAN УЖАСЫ
 http://u.vipl.one/high/x9scda3iu7/1261.m3u8
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/22022022/logos/41331-6214810fe949a.png" group-title="КИНО И СЕРИАЛЫ", СИТИ ЭДЕМ - КИНОКОМЕДИЯ
-https://v2.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21022022/logos/40783-621327df2c1bb.png" group-title="КИНО И СЕРИАЛЫ", СИТИ ЭДЕМ - КИНОМИСТИКА
-https://v2.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/22022022/logos/41333-6214c74721679.png" group-title="КИНО И СЕРИАЛЫ", СИТИ ЭДЕМ - КИНОЭКШЕН
-https://v2.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.ibb.co/sVJRrqm/KVN-TV-b.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", КВН ТВ
 http://91.207.115.228:12000/play/a023
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.ibb.co/sVJRrqm/KVN-TV-b.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", КВН ТВ
