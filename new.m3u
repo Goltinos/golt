@@ -111,7 +111,7 @@ http://u.vipl.one/high/x9scda3iu7/128.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/311.jpg" group-title="КИНО И СЕРИАЛЫ", МУЖСКОЕ КИНО
 http://91.207.114.220:9001/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
-http://91.205.199.3/komedia/index.m3u8
+http://193.242.204.28:10092/92
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://tvbesedka.com/Upload/2022/3/29/23/43/17/4fb73bfd-d612-48f7-8d90-6a586ed6180b.jpg" group-title="КИНО И СЕРИАЛЫ", НСТ
 http://91.224.169.250:5000/c16
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" group-title="КИНО И СЕРИАЛЫ", НАШЕ НОВОЕ КИНО
@@ -174,4 +174,5 @@ http://u.vipl.one/high/x9scda3iu7/1660.m3u8
 http://94.230.128.105:8080/MUSIC/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="213.png" group-title="КИНО И СЕРИАЛЫ", ФАНТАСТИКА HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://hls.goodgame.ru/hls/187241.m3u8
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+
