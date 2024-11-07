@@ -57,11 +57,11 @@ https://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION HD
 https://stream1.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
-http://193.242.204.28:10068/68
+http://86.57.198.251:8181/play/1014/index.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY HD
 http://193.242.190.6:8099/202/index.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
-http://193.242.204.28:10070/70
+https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
 https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT
@@ -83,7 +83,7 @@ http://185.23.80.28:8080/Kinopokaz/index.m3u8?token=test
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
 http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://i.ibb.co/t88SCg0/kinopremera-hd.png" group-title="КИНО И СЕРИАЛЫ", КИНОПРЕМЬЕРА HD
-http://93.189.224.24/Kinopremiera/index.m3u8
+http://193.242.190.6:8099/35/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://i.ibb.co/t88SCg0/kinopremera-hd.png" group-title="КИНО И СЕРИАЛЫ", КИНОПРЕМЬЕРА
 http://77.235.1.17/kinopremiera/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://i.ibb.co/hMrVYMg/kinosvidanie.png" group-title="КИНО И СЕРИАЛЫ", КИНОСВИДАНИЕ HD
@@ -94,10 +94,8 @@ rtmp://5.182.229.90//7244
 rtmp://5.182.229.90//7250
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://i.ibb.co/5Kpxzhw/kinohit.png" group-title="КИНО И СЕРИАЛЫ", КИНОХИТ
 http://185.50.148.2:7711/Kinohit/index.m3u8
-#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/311.jpg" group-title="КИНО И СЕРИАЛЫ", МУЖСКОЕ КИНО HD
-http://u.vipl.one/high/x9scda3iu7/128.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
-http://193.242.204.28:10092/92
+http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzEwNTUyNjcsImlhdCI6MTczMDk2ODg2NywiY2lkIjo2LCJ1aWQiOjg1MzM0MzU4MywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.kKD_UTCOYU-kfPiVclPT8kAybRfjysIcDKNK5Gat8js&offset=10
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://tvbesedka.com/Upload/2022/3/29/23/43/17/4fb73bfd-d612-48f7-8d90-6a586ed6180b.jpg" group-title="КИНО И СЕРИАЛЫ", НСТ
 http://91.224.169.250:5000/c16
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" group-title="КИНО И СЕРИАЛЫ", НАШЕ НОВОЕ КИНО
@@ -117,7 +115,7 @@ http://u.vipl.one/high/x9scda3iu7/1262.m3u8
 #EXTINF:-1 tvg-id="cineman-uzhasy" tvg-logo="https://epgx.site/p/cineman-uzhasy.png" group-title="КИНО И СЕРИАЛЫ", CINEMAN УЖАСЫ
 http://u.vipl.one/high/x9scda3iu7/1261.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.ibb.co/sVJRrqm/KVN-TV-b.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", КВН ТВ
-http://193.242.204.28:10138/138
+http://77.235.1.17/kvn_tv/index.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://i.ibb.co/qyF0n0J/Tvoyo-TV-220x220.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor"tvg-logo="https://i.postimg.cc/wMm8WXyb/e13c75da2663c549198b604af6526247.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD - ЮМОР
@@ -138,7 +136,7 @@ http://185.23.80.28:8080/RusskijRoman/index.m3u8?token=test
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
 http://u.vipl.one/high/x9scda3iu7/135.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
-http://193.242.204.28:10075/75
+http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzEwNTUyNjcsImlhdCI6MTczMDk2ODg2NywiY2lkIjo2LCJ1aWQiOjg1MzM0MzU4MywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.kKD_UTCOYU-kfPiVclPT8kAybRfjysIcDKNK5Gat8js&offset=10
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://u.vipl.one/high/x9scda3iu7/1254.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN HD
