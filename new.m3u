@@ -71,7 +71,7 @@ http://193.242.190.6:8099/200/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ HD
 http://91.224.169.250:5000/c150
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
-http://91.194.191.241:8081/chid407/tracks-v1a1/mono.m3u8
+http://193.242.190.6:8099/88/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ HD
 rtmp://5.182.229.90//7248
 #EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://i.ibb.co/MN20710/2ee2595bb04c6ab017b459d7c230ad441.png" group-title="КИНО И СЕРИАЛЫ", КИНОМИКС HD
@@ -97,7 +97,7 @@ http://91.224.169.250:5000/c11
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://tvbesedka.com/Upload/2022/3/29/23/43/17/4fb73bfd-d612-48f7-8d90-6a586ed6180b.jpg" group-title="КИНО И СЕРИАЛЫ", НСТ
 http://91.224.169.250:5000/c16
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" group-title="КИНО И СЕРИАЛЫ", НАШЕ НОВОЕ КИНО
-http://91.194.191.241:8081/chid470/tracks-v1a1/mono.m3u8
+http://77.235.1.17/nashe_novoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="http://only4.tv/ch/0121.png" group-title="КИНО И СЕРИАЛЫ", ПРЕМИАЛЬНОЕ HD
 rtmp://5.182.229.90//7222
 #EXTINF:-1 tvg-id="strashnoe-hd" tvg-logo="http://only4.tv/ch/0218.png" group-title="КИНО И СЕРИАЛЫ", СТРАШНОЕ HD
@@ -120,7 +120,7 @@ http://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://only4.tv/ch/424.png" group-title="МЕЛОДРАМА", РУССКИЙ РОМАН HD
 http://185.23.80.28:8080/RusskijRoman/index.m3u8?token=test
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
-http://91.194.191.241:8081/chid75/tracks-v1a1/mono.m3u8
+http://91.224.169.250:5000/c4
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://u.vipl.one/high/x9scda3iu7/1254.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN HD
