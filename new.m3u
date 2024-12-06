@@ -168,4 +168,4 @@ http://45.151.69.10:8887/8457/video.m3u8
 http://45.151.69.10:8887/8984/index.m3u8?token=iptvin.ru
 #EXTINF:-1  tvg-id="box-fantasy" tvg-logo="https://iptvx.one/picons/box-fantasy.png" group-title="КИНО И СЕРИАЛЫ", BOX Fantasy HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://45.151.69.10:8887/8984/index.m3u8?token=iptvin.ru
+http://45.151.69.10:8887/8430/video.m3u8
