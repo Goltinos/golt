@@ -111,7 +111,7 @@ http://u.vipl.one/high/x9scda3iu7/1257.m3u8
 #EXTINF:-1 tvg-id="cineman-comedy" tvg-logo="https://epgx.site/p/cineman-comedy.png" group-title="КИНО И СЕРИАЛЫ", CINEMAN КОМЕДИЯ
 http://u.vipl.one/high/x9scda3iu7/1262.m3u8
 #EXTINF:-1 tvg-id="cineman-uzhasy" tvg-logo="https://epgx.site/p/cineman-uzhasy.png" group-title="КИНО И СЕРИАЛЫ", CINEMAN УЖАСЫ
-http://45.151.69.10:8887/8960/index.m3u8
+http://u.vipl.one/high/x9scda3iu7/1261.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.ibb.co/sVJRrqm/KVN-TV-b.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", КВН ТВ
 http://213.226.137.140:81/tl/l410/mpegts
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://i.ibb.co/qyF0n0J/Tvoyo-TV-220x220.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD
@@ -153,7 +153,7 @@ http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 http://45.151.69.10:8887/8891/index.m3u8
 #EXTINF:-1  tvg-id="bcu-fantastic" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" group-title="КИНО И СЕРИАЛЫ", BCU Fantastic HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://45.151.69.10:8887/8879/index.m3u8
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493323&extension=ts
 #EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://45.151.69.10:8887/8976/index.m3u8?token=iptvin.ru
@@ -165,7 +165,7 @@ http://45.151.69.10:8887/8882/index.m3u8
 http://45.151.69.10:8887/8457/video.m3u8
 #EXTINF:-1  tvg-id="box-anime" tvg-logo="https://iptvx.one/picons/box-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BOX Anime HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://45.151.69.10:8887/8984/index.m3u8?token=iptvin.ru
+http://45.151.69.10:8887/8984/video.m3u8
 #EXTINF:-1  tvg-id="box-fantasy" tvg-logo="https://iptvx.one/picons/box-fantasy.png" group-title="КИНО И СЕРИАЛЫ", BOX Fantasy HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://45.151.69.10:8887/8430/video.m3u8
