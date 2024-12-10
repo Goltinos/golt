@@ -93,7 +93,7 @@ rtmp://5.182.229.90//7250
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://i.ibb.co/5Kpxzhw/kinohit.png" group-title="КИНО И СЕРИАЛЫ", КИНОХИТ
 http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
-http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczMzA1NDM0MiwiaHdpZCI6ImJhNDM4OGI2N2NlNjg5ZmMwYWRlODE3OTlhYWNkZDZhNzg2ZmMxZWI5MzQ4M2YwYTEwMjNhZTViMmMyNDYwM2EiLCJsYXN0X3JlcV9kYXRlIjoxNzMyNDQ5NTQyLCJzZXNzaW9uX2lkIjoiZTU2Y2VhNGQyZWFhMTk5NGJlNzBhM2M4M2EwZTI2MTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.szI-WRMvaN5r-B7DhFyLWJcQNPoP7jEH9XFUxA4LGWk
+http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczNDI1NTY5NiwiaHdpZCI6IjQwM2QxOTU2ODk2NmVhZDlmNzMzNjAwOGU1ZjA2MGYxNDgzNDFmN2YyMGMwODgxZTA0NTQwZGY5Y2MwMzJkYWQiLCJsYXN0X3JlcV9kYXRlIjoxNzMzNjUwODk2LCJzZXNzaW9uX2lkIjoiNWQ0MDI3MWEzMzljMWQ5NGI0MTViZjNmYmY3ZDIyNmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.3aPuB452OC_rqzctZENFtb5lwsGFyiIsMofzsw_coHE
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://tvbesedka.com/Upload/2022/3/29/23/43/17/4fb73bfd-d612-48f7-8d90-6a586ed6180b.jpg" group-title="КИНО И СЕРИАЛЫ", НСТ
 http://178.57.121.38:8080/nst/index.m3u8?token=test
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" group-title="КИНО И СЕРИАЛЫ", НАШЕ НОВОЕ КИНО
@@ -103,15 +103,15 @@ rtmp://5.182.229.90//7222
 #EXTINF:-1 tvg-id="strashnoe-hd" tvg-logo="http://only4.tv/ch/0218.png" group-title="КИНО И СЕРИАЛЫ", СТРАШНОЕ HD
 rtmp://5.182.229.90//7247
 #EXTINF:-1 tvg-id="cineman-marvel" tvg-logo="https://epgx.site/p/cineman-marvel.png" group-title="КИНО И СЕРИАЛЫ", CINEMAN MARVEL
-http://u.vipl.one/high/x9scda3iu7/1260.m3u8
+http://3.troya.info:34000/ch1035/mono.m3u8?token=sasa---.nOIT5HpDTrRdvw8FphzuirUrt7eR3ZdIJ51wMFqXPNcT9CVhQhZwE-cM4IskWBkl
 #EXTINF:-1 tvg-id="cineman-premium" tvg-logo="https://epgx.site/p/cineman-premium.png" group-title="КИНО И СЕРИАЛЫ", CINEMAN PREMIUM
-http://u.vipl.one/high/x9scda3iu7/1426.m3u8
+http://3.troya.info:34000/ch2142/mono.m3u8?token=sasa---.nOIT5HpDTrRdvw8FphzuihhC1jSzEkbBj1BfevP40yMSTBfQRVOIPp1OBqPTtEc9
 #EXTINF:-1 tvg-id="cineman-action" tvg-logo="https://epgx.site/p/cineman-action.png" group-title="КИНО И СЕРИАЛЫ", CINEMAN БОЕВИК
-http://u.vipl.one/high/x9scda3iu7/1257.m3u8
+http://3.troya.info:34000/ch1032/mono.m3u8?token=sasa---.nOIT5HpDTrRdvw8FphzuiuaCNP6sPLItJTOub58RZJNOFIMkSFA7207VIEa83j9-
 #EXTINF:-1 tvg-id="cineman-comedy" tvg-logo="https://epgx.site/p/cineman-comedy.png" group-title="КИНО И СЕРИАЛЫ", CINEMAN КОМЕДИЯ
-http://u.vipl.one/high/x9scda3iu7/1262.m3u8
+http://3.troya.info:34000/ch1037/mono.m3u8?token=sasa---.nOIT5HpDTrRdvw8Fphzuikh3zITwZcqFUKX_9_9dp0XveOO6r38tEBFHrvTPw9sb
 #EXTINF:-1 tvg-id="cineman-uzhasy" tvg-logo="https://epgx.site/p/cineman-uzhasy.png" group-title="КИНО И СЕРИАЛЫ", CINEMAN УЖАСЫ
-http://u.vipl.one/high/x9scda3iu7/1261.m3u8
+http://3.troya.info:34000/ch1036/mono.m3u8?token=sasa---.nOIT5HpDTrRdvw8FphzuihDo6tErnOWTZgPJs86N8F4dDAolLuAEs2ciJjTB3f14
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.ibb.co/sVJRrqm/KVN-TV-b.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", КВН ТВ
 http://213.226.137.140:81/tl/l410/mpegts
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://i.ibb.co/qyF0n0J/Tvoyo-TV-220x220.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD
@@ -150,10 +150,10 @@ https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1  tvg-id="bcu-cinema" tvg-logo="https://iptvx.one/picons/bcu-cinema.png" group-title="КИНО И СЕРИАЛЫ", BCU Cinema HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://45.151.69.10:8887/8891/index.m3u8
+http://3.troya.info:34000/ch771/mono.m3u8?token=sasa---.nOIT5HpDTrRdvw8FphzuinafhvpgiSmyK6THeNPt4QMlswS8PhcbbcsxgbH54abB
 #EXTINF:-1  tvg-id="bcu-fantastic" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" group-title="КИНО И СЕРИАЛЫ", BCU Fantastic HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493323&extension=ts
+http://3.troya.info:34000/ch773/mono.m3u8?token=sasa---.nOIT5HpDTrRdvw8Fphzuijzwcru3ET4ClqRKUwQRCFkz1m4HHez8H4bvvx4IpIeb
 #EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://45.151.69.10:8887/8458/video.m3u8?key=iptvin.ru
@@ -162,13 +162,13 @@ http://45.151.69.10:8887/8458/video.m3u8?key=iptvin.ru
 http://45.151.69.10:8887/8976/index.m3u8?token=iptvin.ru
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://45.151.69.10:8887/8882/index.m3u8
+http://3.troya.info:34000/ch311/mono.m3u8?token=sasa---.nOIT5HpDTrRdvw8FphzuikA1sUy837fcO1KISWzU3Y-2WqwzOwilPCao6N47Yywr
 #EXTINF:-1  tvg-id="bcu-russian" tvg-logo="https://iptvx.one/picons/bcu-russian.png" group-title="РУССКОЕ КИНО", BCU Russian HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://45.151.69.10:8887/8457/video.m3u8
+http://3.troya.info:34000/ch780/mono.m3u8?token=sasa---.nOIT5HpDTrRdvw8Fphzuili6UMMJOIvdb8_816hcrYMthn8G67xoidvqJIgTCOPf
 #EXTINF:-1  tvg-id="box-anime" tvg-logo="https://iptvx.one/picons/box-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BOX Anime HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://45.151.69.10:8887/8984/video.m3u8
+http://3.troya.info:34000/ch2281/mono.m3u8?token=sasa---.nOIT5HpDTrRdvw8FphzuitheusrofmQ40_RAFNGYX5P8-ojXFjDoix3PX8KyXtkk
 #EXTINF:-1  tvg-id="box-fantasy" tvg-logo="https://iptvx.one/picons/box-fantasy.png" group-title="КИНО И СЕРИАЛЫ", BOX Fantasy HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://45.151.69.10:8887/8430/video.m3u8
+http://3.troya.info:34000/ch2287/mono.m3u8?token=sasa---.nOIT5HpDTrRdvw8FphzuiugVtqg9sEF5IVjkXQR2q_xpg9EpSTfePrEl3tdeXD_x
