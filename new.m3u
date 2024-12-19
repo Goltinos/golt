@@ -93,7 +93,7 @@ rtmp://5.182.229.90//7250
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://i.ibb.co/5Kpxzhw/kinohit.png" group-title="КИНО И СЕРИАЛЫ", КИНОХИТ
 http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
-http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NjIxOTAwODY5OTkwMyIsImV4cCI6MTczNDI1NTY5NiwiaHdpZCI6IjQwM2QxOTU2ODk2NmVhZDlmNzMzNjAwOGU1ZjA2MGYxNDgzNDFmN2YyMGMwODgxZTA0NTQwZGY5Y2MwMzJkYWQiLCJsYXN0X3JlcV9kYXRlIjoxNzMzNjUwODk2LCJzZXNzaW9uX2lkIjoiNWQ0MDI3MWEzMzljMWQ5NGI0MTViZjNmYmY3ZDIyNmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.3aPuB452OC_rqzctZENFtb5lwsGFyiIsMofzsw_coHE
+http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://tvbesedka.com/Upload/2022/3/29/23/43/17/4fb73bfd-d612-48f7-8d90-6a586ed6180b.jpg" group-title="КИНО И СЕРИАЛЫ", НСТ
 http://178.57.121.38:8080/nst/index.m3u8?token=test
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" group-title="КИНО И СЕРИАЛЫ", НАШЕ НОВОЕ КИНО
@@ -138,6 +138,12 @@ https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="213.png" group-title="КИНО И СЕРИАЛЫ", ФАНТАСТИКА HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1  tvg-id="0000" tvg-logo="210.png" group-title="КИНО И СЕРИАЛЫ", Ужастик HD
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1  tvg-id="0000" tvg-logo="210.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Мультики HD
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="cineman-marvel" tvg-logo="https://epgx.site/p/cineman-marvel.png" group-title="КИНО И СЕРИАЛЫ", CINEMAN MARVEL
 http://u.vipl.one/high/x9scda3iu7/1260.m3u8
 #EXTINF:-1 tvg-id="cineman-premium" tvg-logo="https://epgx.site/p/cineman-premium.png" group-title="КИНО И СЕРИАЛЫ", CINEMAN PREMIUM
@@ -151,3 +157,9 @@ http://hls127.homeiptv.org:8880/CPS_Action/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Cartoon HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://hls127.homeiptv.org:8880/CPS_Cartoon/video.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="210.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Том и Джерри
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://tinyurl.com/%75%7533%63%64%78%78/5617
+#EXTINF:-1  tvg-id="0000" tvg-logo="210.png" group-title="КИНО И СЕРИАЛЫ", Фантастика HD
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/11070/index.m3u8
