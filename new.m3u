@@ -157,9 +157,5 @@ http://hls127.homeiptv.org:8880/CPS_Action/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Cartoon HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://hls127.homeiptv.org:8880/CPS_Cartoon/video.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="210.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Том и Джерри
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://tinyurl.com/%75%7533%63%64%78%78/5617
-#EXTINF:-1  tvg-id="0000" tvg-logo="210.png" group-title="КИНО И СЕРИАЛЫ", Фантастика HD
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/11070/index.m3u8
+
+
