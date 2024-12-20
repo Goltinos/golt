@@ -148,6 +148,8 @@ http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 http://u.vipl.one/high/x9scda3iu7/1260.m3u8
 #EXTINF:-1 tvg-id="cineman-premium" tvg-logo="https://epgx.site/p/cineman-premium.png" group-title="КИНО И СЕРИАЛЫ", CINEMAN PREMIUM
 http://u.vipl.one/high/x9scda3iu7/1426.m3u8
+#EXTINF:-1 tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Anime TV
+http://u.vipl.one/high/lhajxyzwtp/1491.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://hls127.homeiptv.org:8880/CPS_Anime/video.m3u8
