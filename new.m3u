@@ -170,3 +170,6 @@ http://fs2.persik.by/Zombi_apokalipsis8/index.m3u8
 #EXTINF:-1  tvg-id="bcu-charm" tvg-logo="https://iptvx.one/picons/bcu-charm.png" group-title="ТЕСТ", BCU Charm
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://live.admuspeh.my/8978/index.m3u8?token=TestuspehTva
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="ТЕСТ", My Pervy Family
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+https://umbrellateam.ddns.net:2096/live/blickkk/XUbxsnSbxbQ2/9546.ts
