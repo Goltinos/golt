@@ -125,7 +125,7 @@ https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://109.200.130.123:7537/play/a02a
 #EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="МУЗЫКАЛЬНЫЕ", RU.TV
-http://86.57.198.251:8181/play/1084/index.m3u8
+http://%64m%693%79-%74%76.ru/hls/CH_RUTV.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://only4.tv/ch/2119.png" group-title="МУЗЫКАЛЬНЫЕ", BRIDGE TV РУССКИЙ ХИТ
 http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://epgx.site/p/russian-musicbox.png" group-title="МУЗЫКАЛЬНЫЕ", Russian MusicBox
@@ -164,12 +164,9 @@ http://live.admuspeh.my/8914/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="cineman-rukino" tvg-logo="https://epgx.site/p/cineman-rukino.png" group-title="РУССКОЕ КИНО", CineMan РуКино
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://live.admuspeh.my/8871/index.m3u8?token=TestuspehTva
-#EXTINF:-1 tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Зомби-апокалипсис
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://fs2.persik.by/Zombi_apokalipsis8/index.m3u8
 #EXTINF:-1  tvg-id="bcu-charm" tvg-logo="https://iptvx.one/picons/bcu-charm.png" group-title="ТЕСТ", BCU Charm
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://live.admuspeh.my/8978/index.m3u8?token=TestuspehTva
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="ТЕСТ", My Pervy Family
+#EXTINF:-1  tvg-id="russkaya-noch" tvg-logo="https://iptvx.one/picons/russkaya-noch.png" group-title="ТЕСТ", Русская ночь
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://umbrellateam.ddns.net:2096/live/blickkk/XUbxsnSbxbQ2/9546.ts
+http://93.189.224.246:52900/play/a00s
