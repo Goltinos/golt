@@ -47,9 +47,9 @@ http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000
-http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzg0ODk2ODAsImlhdCI6MTczODQwMzI4MCwiY2lkIjo2LCJ1aWQiOjg5MDE0Njg5MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.90jPPD46CXOe1TbnXeJtEpxJ6UE7iI1xiFqSf3aqg1U&offset=10
+http://live.admuspeh.my/8048/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
-http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzg0ODk2ODAsImlhdCI6MTczODQwMzI4MCwiY2lkIjo2LCJ1aWQiOjg5MDE0Njg5MCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.90jPPD46CXOe1TbnXeJtEpxJ6UE7iI1xiFqSf3aqg1U&offset=10
+http://live.admuspeh.my/8049/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
 http://91.207.115.228:5000/c143
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
