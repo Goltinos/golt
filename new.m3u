@@ -47,13 +47,13 @@ http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000
-http://live.admuspeh.my/8048/index.m3u8?token=Tva25uspehTest
+http://cdn.admuspeh.my/8048/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
-http://live.admuspeh.my/8049/index.m3u8?token=Tva25uspehTest
+http://cdn.admuspeh.my/8049/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
-http://91.207.115.228:5000/c143
+http://193.242.190.6:8099/202/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
-http://91.207.115.228:5000/c144
+http://193.242.190.6:8099/201/index.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://epgx.site/p/vip-premiere.png" group-title="КИНО И СЕРИАЛЫ", VIP PREMIERE HD
 http://193.242.190.6:8099/200/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ HD
@@ -78,16 +78,18 @@ http://193.242.190.6:8099/85/index.m3u8
 http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
 http://130.193.73.10:8937/play/a03k
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
+http://flu.ttk.mx:90/Komediya/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://tvbesedka.com/Upload/2022/3/29/23/43/17/4fb73bfd-d612-48f7-8d90-6a586ed6180b.jpg" group-title="КИНО И СЕРИАЛЫ", НСТ
 http://178.57.121.38:8080/nst/index.m3u8?token=test
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" group-title="КИНО И СЕРИАЛЫ", НАШЕ НОВОЕ КИНО
 http://213.226.137.140:81/tl/l53/mpegts
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="http://only4.tv/ch/0121.png" group-title="КИНО И СЕРИАЛЫ", ПРЕМИАЛЬНОЕ HD
-http://live.admuspeh.my/8028/index.m3u8?token=Fas-tvIp25tva
+http://cdn.admuspeh.my/8028/index.m3u8?token=Fas-tvIp25tva
 #EXTINF:-1 tvg-id="strashnoe-hd" tvg-logo="http://only4.tv/ch/0218.png" group-title="КИНО И СЕРИАЛЫ", СТРАШНОЕ HD
-http://live.admuspeh.my/8198/index.m3u8?token=Tva25uspehTest
+http://cdn.admuspeh.my/8198/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://epgx.site/p/vhs-ka.png" group-title="КИНО И СЕРИАЛЫ", VHS-ка HD
-http://live.admuspeh.my/8962/index.m3u8?token=Njrty24ghjCnjNfr
+http://cdn.admuspeh.my/8962/index.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.ibb.co/sVJRrqm/KVN-TV-b.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", КВН ТВ
 http://213.226.137.140:81/tl/l410/mpegts
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://i.ibb.co/qyF0n0J/Tvoyo-TV-220x220.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD
@@ -95,7 +97,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor"tvg-logo="https://i.postimg.cc/wMm8WXyb/e13c75da2663c549198b604af6526247.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://i.ibb.co/VgJcsj2/5d526f1f50b3c5bad276c99b3af2520a.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", САРАФАН
-http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
+http://213.226.137.140:81/tl/l103/mpegts
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://i.ibb.co/FqyWv9L/tht4.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ4
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -106,10 +108,7 @@ http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
 http://178.57.121.38:8080/rusbest/index.m3u8?token=test
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
-http://live.admuspeh.my/8866/index.m3u8?token=TestuspehTva
-#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN HD
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://hls.goodgame.ru/hls/157239.m3u8
+http://cdn.admuspeh.my/8866/index.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://109.200.130.123:7537/play/a02a
 #EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="МУЗЫКАЛЬНЫЕ", RU.TV
@@ -134,31 +133,31 @@ http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1  tvg-id="bcu-fantastic" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" group-title="КИНО И СЕРИАЛЫ", BCU Fantastic HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://live.admuspeh.my/8879/video.m3u8?token=TestuspehTva
+http://cdn.admuspeh.my/8879/video.m3u8?token=TestuspehTva
 #EXTINF:-1  tvg-id="bcu-multserial" tvg-logo="https://iptvx.one/picons/bcu-multserial.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Мультсериал HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://live.admuspeh.my/8874/index.m3u8?token=TestuspehTva
+http://cdn.admuspeh.my/8874/index.m3u8?token=TestuspehTva
 #EXTINF:-1  tvg-id="bcu-russian" tvg-logo="https://iptvx.one/picons/bcu-russian.png" group-title="РУССКОЕ КИНО", BCU Russian HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://live.admuspeh.my/8457/index.m3u8?token=TestuspehTva
+http://cdn.admuspeh.my/8457/index.m3u8?token=TestuspehTva
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://live.admuspeh.my/8882/video.m3u8?token=TestuspehTva
+http://cdn.admuspeh.my/8882/video.m3u8?token=TestuspehTva
 #EXTINF:-1  tvg-id="box-anime" tvg-logo="https://iptvx.one/picons/box-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BOX Anime HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://live.admuspeh.my/8984/video.m3u8?token=TestuspehTva
+http://cdn.admuspeh.my/8984/video.m3u8?token=TestuspehTva
 #EXTINF:-1  tvg-id="box-fantasy" tvg-logo="https://iptvx.one/picons/box-fantasy.png" group-title="КИНО И СЕРИАЛЫ", BOX Fantasy HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://live.admuspeh.my/8430/video.m3u8?token=TestuspehTva
+http://cdn.admuspeh.my/8430/video.m3u8?token=TestuspehTva
 #EXTINF:-1  tvg-id="minimax-walt-disney" tvg-logo="https://iptvx.one/picons/minimax-walt-disney.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", MM Walt Disney HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://live.admuspeh.my/8914/video.m3u8?token=TestuspehTva
+http://cdn.admuspeh.my/8914/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="cineman-rukino" tvg-logo="https://epgx.site/p/cineman-rukino.png" group-title="РУССКОЕ КИНО", CineMan РуКино
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://live.admuspeh.my/8871/index.m3u8?token=TestuspehTva
+http://cdn.admuspeh.my/8871/index.m3u8?token=TestuspehTva
 #EXTINF:-1  tvg-id="bcu-charm" tvg-logo="https://iptvx.one/picons/bcu-charm.png" group-title="ТЕСТ", BCU Charm
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://live.admuspeh.my/8978/index.m3u8?token=TestuspehTva
+http://cdn.admuspeh.my/8978/index.m3u8?token=TestuspehTva
 #EXTINF:-1  tvg-id="russkaya-noch" tvg-logo="https://iptvx.one/picons/russkaya-noch.png" group-title="ТЕСТ", Русская ночь
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://93.189.224.246:52900/play/a00s
