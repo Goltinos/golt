@@ -107,6 +107,8 @@ http://109.200.130.123:7537/play/a023
 http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
 http://178.57.121.38:8080/rusbest/index.m3u8?token=test
+#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
+http://31.131.136.5:9004/play/a0a5
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://cdn.admuspeh.my/8866/index.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
