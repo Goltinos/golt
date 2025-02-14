@@ -37,13 +37,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://epgx.site/p/domkino.png" group-title="РУССКОЕ КИНО", ДОМ КИНО
-http://185.50.148.2:7707/DomKino/index.m3u8
+http://%64m%693%79-%74%76.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
 http://213.226.137.140:81/tl/l75/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epgx.site/p/tv1000-russkoe-kino.png" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
 http://213.226.137.140:81/tl/l93/mpegts
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://epgx.site/p/mosfilm.png" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
-http://185.50.148.2:7706/Mosfilm/index.m3u8
+http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000
@@ -75,7 +75,7 @@ http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://i.ibb.co/1T8WsJp/kinosemya.png" group-title="КИНО И СЕРИАЛЫ", КИНОСЕМЬЯ HD
 http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://i.ibb.co/5Kpxzhw/kinohit.png" group-title="КИНО И СЕРИАЛЫ", КИНОХИТ
-http://185.50.148.2:7711/Kinohit/index.m3u8
+http://213.226.137.140:81/tl/l16/mpegts
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
@@ -107,8 +107,6 @@ http://109.200.130.123:7537/play/a023
 http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
 http://178.57.121.38:8080/rusbest/index.m3u8?token=test
-#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
-http://31.131.136.5:9004/play/a0a5
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://cdn.admuspeh.my/8866/index.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
@@ -157,6 +155,26 @@ http://cdn.admuspeh.my/8914/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="cineman-rukino" tvg-logo="https://epgx.site/p/cineman-rukino.png" group-title="РУССКОЕ КИНО", CineMan РуКино
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://cdn.admuspeh.my/8871/index.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="vf-sled" tvg-logo="https://iptvx.one/picons/vf-sled.png" group-title="МЕЛОДРАМА", VF След
+http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/13086/index.m3u8
+#EXTINF:-1  tvg-id="vf-anime" tvg-logo="https://iptvx.one/picons/vf-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", VF Anime
+http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/10001/index.m3u8
+#EXTINF:-1  tvg-id="vf-comics" tvg-logo="https://iptvx.one/picons/vf-comics.png" group-title="КИНО И СЕРИАЛЫ", VF Comics
+http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/13092/index.m3u8
+#EXTINF:-1  tvg-id="vf-cartoon" tvg-logo="https://iptvx.one/picons/vf-cartoon.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", VF Cartoon
+http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/10002/index.m3u8
+#EXTINF:-1  tvg-id="vf-mystic" tvg-logo="https://iptvx.one/picons/vf-mystic.png" group-title="КИНО И СЕРИАЛЫ", VF Mystic
+http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/10007/index.m3u8
+#EXTINF:-1 tvg-id="yosso-rusfilm" tvg-logo="https://iptvx.one/picons/yosso-rusfilm.png" group-title="РУССКОЕ КИНО", Yosso TV Русские Фильмы
+http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/14174/index.m3u8
+#EXTINF:-1  tvg-id="yosso-best" tvg-logo="https://iptvx.one/picons/yosso-best.png" group-title="КИНО И СЕРИАЛЫ", Yosso TV Best
+http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/14236/index.m3u8
+#EXTINF:-1  tvg-id="magic-action" tvg-logo="https://iptvx.one/picons/magic-action.png" group-title="КИНО И СЕРИАЛЫ", Magic Action HD
+http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/18066/index.m3u8
+#EXTINF:-1  tvg-id="magic-disney" tvg-logo="https://iptvx.one/picons/magic-disney.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Magic Disney HD
+http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/18064/index.m3u8
+#EXTINF:-1  tvg-id="vf-disney-movie" tvg-logo="https://iptvx.one/picons/vf-disney-movie.png" group-title="КИНО И СЕРИАЛЫ", VF Disney Movie
+http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/15010/index.m3u8
 #EXTINF:-1  tvg-id="bcu-charm" tvg-logo="https://iptvx.one/picons/bcu-charm.png" group-title="ТЕСТ", BCU Charm
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://cdn.admuspeh.my/8978/index.m3u8?token=TestuspehTva
