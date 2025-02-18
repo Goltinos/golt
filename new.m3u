@@ -51,11 +51,9 @@ http://185.50.148.2:7703/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
 http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
-http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
+http://141.95.55.143/CH311/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
 http://141.95.55.143/CH313/index.m3u8
-#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ HD
-http://185.23.80.28:8080/Kino_TV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
 http://193.242.190.6:8099/88/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ HD
@@ -73,7 +71,7 @@ http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
 http://flu.ttk.mx:90/Komediya/mono.m3u8?token=hs06e
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" group-title="РУССКОЕ КИНО", НАШЕ НОВОЕ КИНО
-http://178.212.71.253:8002/play/a00i/index.m3u8
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="http://only4.tv/ch/0121.png" group-title="КИНО И СЕРИАЛЫ", ПРЕМИАЛЬНОЕ HD
 http://141.95.55.143/CH545/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.ibb.co/sVJRrqm/KVN-TV-b.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", КВН ТВ
@@ -145,3 +143,11 @@ http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/16153/index.m3u8
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/18066/index.m3u8
 #EXTINF:-1  tvg-id="magic-disney" tvg-logo="https://iptvx.one/picons/magic-disney.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Magic Disney HD
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/18064/index.m3u8
+#EXTINF:-1  tvg-id="bcu-russian" tvg-logo="https://iptvx.one/picons/bcu-russian.png" group-title="РУССКОЕ КИНО", BCU Russian HD
+http://cdn.admuspeh.my/8457/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1  tvg-id="bcu-fantastic" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" group-title="КИНО И СЕРИАЛЫ", BCU Fantastic HD
+http://cdn.admuspeh.my/8879/video.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1  tvg-id="box-anime" tvg-logo="https://iptvx.one/picons/box-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BOX Anime HD
+http://cdn.admuspeh.my/8984/video.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1  tvg-id="box-fantasy" tvg-logo="https://iptvx.one/picons/box-fantasy.png" group-title="КИНО И СЕРИАЛЫ", BOX Fantasy HD
+http://cdn.admuspeh.my/8430/video.m3u8?token=qwFZqkLzC2pK6whe
