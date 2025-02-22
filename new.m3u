@@ -91,7 +91,6 @@ http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
 http://178.57.121.38:8080/rusbest/index.m3u8?token=test
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 http://ott.server-iptv.live/520/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://109.200.130.123:7537/play/a02a
@@ -126,12 +125,8 @@ http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/15010/index.m3u8
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/14174/index.m3u8
 #EXTINF:-1  tvg-id="yosso-best" tvg-logo="https://iptvx.one/picons/yosso-best.png" group-title="КИНО И СЕРИАЛЫ", Yosso TV Best
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/14236/index.m3u8
-#EXTINF:-1  tvg-id="yosso-vhs" tvg-logo="https://iptvx.one/picons/yosso-vhs.png" group-title="КИНО И СЕРИАЛЫ", Yosso VHS
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/14172/index.m3u8
 #EXTINF:-1  tvg-id="yosso-adventure" tvg-logo="https://iptvx.one/picons/yosso-adventure.png" group-title="КИНО И СЕРИАЛЫ", Yosso Adventure
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/15510/index.m3u8
-#EXTINF:-1  tvg-id="yosso-4k" tvg-logo="https://iptvx.one/picons/yosso-4k.png" group-title="КИНО И СЕРИАЛЫ", Yosso 4K
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/16153/index.m3u8
 #EXTINF:-1  tvg-id="magic-action" tvg-logo="https://iptvx.one/picons/magic-action.png" group-title="КИНО И СЕРИАЛЫ", Magic Action HD
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/18066/index.m3u8
 #EXTINF:-1  tvg-id="magic-disney" tvg-logo="https://iptvx.one/picons/magic-disney.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Magic Disney HD
@@ -146,8 +141,7 @@ https://ro01.spr24.net/20821/index.m3u8?token=VRAHCzqcRKLhrK
 #EXTINF:-1  tvg-id="box-fantasy" tvg-logo="https://iptvx.one/picons/box-fantasy.png" group-title="КИНО И СЕРИАЛЫ", BOX Fantasy HD
 https://ro01.spr24.net/20876/index.m3u8?token=VRAHCzqcRKLhrK
 #EXTINF:-1  tvg-id="box-anime" tvg-logo="https://iptvx.one/picons/box-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BOX Anime HD
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-http://cdn.admuspeh.my/8984/video.m3u8?token=qwFZqkLzC2pK6whe
+https://ro01.spr24.net/20855/index.m3u8?token=VRAHCzqcRKLhrK
 
 #EXTINF:-1  tvg-id="fresh-kids" tvg-logo="https://epg.iptvx.one/picons/fresh-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Fresh Kids
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/19288/index.m3u8
@@ -155,14 +149,3 @@ http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/19288/index.m3u8
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/19297/index.m3u8
 #EXTINF:-1  tvg-id="fresh-russian" tvg-logo="https://epg.iptvx.one/picons/fresh-russian.png" group-title="РУССКОЕ КИНО", Fresh Russian
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/19299/index.m3u8
-
-#EXTINF:-1  tvg-id="clarity4k-waltdisney" tvg-logo="https://iptvx.one/picons/clarity4k-waltdisney.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Clarity4K Walt Disney
-http://hls127.homeiptv.org:8080/Clarity4K_Walt_Disney/video.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",CPS Action HD
-http://hls127.homeiptv.org:8080/CPS_Action/video.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",CPS Comedy HD
-http://hls127.homeiptv.org:8080/CPS_Comedy/video.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМ И АНИМЕ",CPS Anime HD
-http://hls127.homeiptv.org:8080/CPS_Anime/video.m3u8
-#EXTINF:-1 group-title="МУЛЬТФИЛЬМ И АНИМЕ",CPS Cartoon HD
-http://hls127.homeiptv.org:8080/CPS_Cartoon/video.m3u8
