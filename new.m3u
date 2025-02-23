@@ -141,6 +141,8 @@ https://ro01.spr24.net/20821/index.m3u8?token=VRAHCzqcRKLhrK
 https://ro01.spr24.net/20876/index.m3u8?token=VRAHCzqcRKLhrK
 #EXTINF:-1  tvg-id="box-anime" tvg-logo="https://iptvx.one/picons/box-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BOX Anime HD
 https://ro01.spr24.net/20855/index.m3u8?token=VRAHCzqcRKLhrK
+#EXTINF:-1  tvg-id="liberty-anime" tvg-logo="https://iptvx.one/picons/liberty-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Аниме
+https://ro01.spr24.net/8015/index.m3u8?token=VRAHCzqcRKLhrK
 
 #EXTINF:-1  tvg-id="fresh-kids" tvg-logo="https://epg.iptvx.one/picons/fresh-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Fresh Kids
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/19288/index.m3u8
