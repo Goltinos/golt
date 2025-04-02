@@ -47,13 +47,13 @@ http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=drVbRyiaEbVJ_ZYOey7AXQ&e=1743575189&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://ro01.spr24.net/320/index.m3u8?token=VRAHCzqcRKLhrK
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=AUEALxAtkmYmIibPESjtdw&e=1743575210&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://ro01.spr24.net/319/index.m3u8?token=VRAHCzqcRKLhrK
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTA4Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUyLzgxMDgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjEiLCJhZnAiOiI4MTA4IiwiYXRzIjoiMzM2IiwibCI6IjA3MjRlODkyIiwicCI6IjA3MjRlODkyMDE3YmQyOTMiLCJjIjoiMTA0IiwidCI6ImYwN2NkZjhjMzg2MzUyZmE5MDM1ZWRkNDZmOWZjZWZjIiwiZCI6IjMwNTE5IiwiciI6IjMwMjU3IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMDgvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+https://ro01.spr24.net/102/index.m3u8?token=VRAHCzqcRKLhrK
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTA5Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUyLzgxMDkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjEiLCJhZnAiOiI4MTA5IiwiYXRzIjoiMzM2IiwibCI6IjA3MjRlODkyIiwicCI6IjA3MjRlODkyMDE3YmQyOTMiLCJjIjoiMTA1IiwidCI6ImYwN2NkZjhjMzg2MzUyZmE5MDM1ZWRkNDZmOWZjZWZjIiwiZCI6IjMwNTE5IiwiciI6IjMwMjU3IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMDkvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+https://ro01.spr24.net/103/index.m3u8?token=VRAHCzqcRKLhrK
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ HD
@@ -88,7 +88,7 @@ http://188.190.222.53/Russkiy_roman/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
-http://ott.server-iptv.live/520/video.m3u8?token=M4f082ab4c
+http://sharingplus.net/iptv/8VXVBRTDB9QZSG/11003/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://109.200.130.123:7537/play/a02a
 #EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="МУЗЫКАЛЬНЫЕ", RU.TV
