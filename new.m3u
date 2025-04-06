@@ -41,7 +41,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epgx.site/p/tv1000-russkoe-kino.png" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
-http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
+https://ro01.spr24.net/318/index.m3u8?token=VRAHCzqcRKLhrK
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://epgx.site/p/mosfilm.png" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA
@@ -112,6 +112,7 @@ http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/10002/index.m3u8
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/10081/index.m3u8
 #EXTINF:-1  tvg-id="vf-fantastic" tvg-logo="https://iptvx.one/picons/vf-fantastic.png" group-title="КИНО И СЕРИАЛЫ", VF Fantastic
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/11121/index.m3u8
+
 #EXTINF:-1 tvg-id="yosso-rusfilm" tvg-logo="https://iptvx.one/picons/yosso-rusfilm.png" group-title="РУССКОЕ КИНО", Yosso TV Русские Фильмы
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/14174/index.m3u8
 #EXTINF:-1  tvg-id="yosso-best" tvg-logo="https://iptvx.one/picons/yosso-best.png" group-title="КИНО И СЕРИАЛЫ", Yosso TV Best
@@ -127,8 +128,6 @@ https://ro01.spr24.net/20814/index.m3u8?token=VRAHCzqcRKLhrK
 https://ro01.spr24.net/20876/index.m3u8?token=VRAHCzqcRKLhrK
 #EXTINF:-1  tvg-id="box-anime" tvg-logo="https://iptvx.one/picons/box-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BOX Anime HD
 https://ro01.spr24.net/20855/index.m3u8?token=VRAHCzqcRKLhrK
-#EXTINF:-1  tvg-id="liberty-anime" tvg-logo="https://iptvx.one/picons/liberty-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Аниме
-https://ro01.spr24.net/8015/index.m3u8?token=VRAHCzqcRKLhrK
 
 #EXTINF:-1  tvg-id="fresh-kids" tvg-logo="https://epg.iptvx.one/picons/fresh-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Fresh Kids
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/19288/index.m3u8
@@ -147,32 +146,3 @@ https://ro01.spr24.net/20966/index.m3u8?token=VRAHCzqcRKLhrK
 https://ro01.spr24.net/20967/index.m3u8?token=VRAHCzqcRKLhrK
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", VeleS Movie Hits
 https://ro01.spr24.net/21017/index.m3u8?token=VRAHCzqcRKLhrK
-
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Chebur TV Мелодрама HD
-http://88.218.242.235:82/9991/video.m3u8?token=ElaAWFIy57
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Chebur TV Ужастики HD
-http://88.218.242.235:82/9989/video.m3u8?token=ElaAWFIy57
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Chebur TV Приключения HD
-http://88.218.242.235:82/9986/video.m3u8?token=ElaAWFIy57
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Chebur TV Стрелялки HD
-http://88.218.242.235:82/10015/video.m3u8?token=ElaAWFIy57
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Chebur TV Семейное HD
-http://88.218.242.235:82/9994/video.m3u8?token=ElaAWFIy57
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Chebur TV Супергерои HD
-http://88.218.242.235:82/10007/video.m3u8?token=ElaAWFIy57
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Chebur TV Космос HD
-http://88.218.242.235:82/10017/video.m3u8?token=ElaAWFIy57
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Chebur TV Фантастика HD
-http://88.218.242.235:82/9987/video.m3u8?token=ElaAWFIy57
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Chebur TV Триллер HD
-http://88.218.242.235:82/9996/video.m3u8?token=ElaAWFIy57
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Chebur TV Мистика HD
-http://88.218.242.235:82/10018/video.m3u8?token=ElaAWFIy57
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Chebur TV Пришельцы HD
-http://88.218.242.235:82/10011/video.m3u8?token=ElaAWFIy57
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Chebur TV Анимешки HD
-http://88.218.242.235:82/10010/video.m3u8?token=ElaAWFIy57
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Chebur TV Новинки HD
-http://88.218.242.235:82/9990/video.m3u8?token=ElaAWFIy57
-
-
