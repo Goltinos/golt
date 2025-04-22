@@ -172,6 +172,19 @@ http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/16080/index.m3u8
 #EXTINF:-1  tvg-id="c-marvel" tvg-logo="https://epg.iptvx.one/picons/c-marvel.png" group-title="КИНО И СЕРИАЛЫ", C-Marvel
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/16051/index.m3u8
 
+#EXTINF:-1  tvg-id="bcu-action" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Action HD
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11027.m3u8?bw9414590877656
+#EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11035.m3u8
+#EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/17023.m3u8
+#EXTINF:-1  tvg-id="bcu-russian" tvg-logo="https://iptvx.one/picons/bcu-russian.png" group-title="РУССКОЕ КИНО", BCU Russian HD
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11041.m3u8
+#EXTINF:-1  tvg-id="bcu-fantastic" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" group-title="КИНО И СЕРИАЛЫ", BCU Fantastic HD
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11032.m3u8
+#EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/15025.m3u8
+
 #EXTINF:-1  tvg-id="eroluxe-henati" tvg-logo="https://epg.iptvx.one/picons/eroluxe-henati.png" group-title="Тест", EroLuxe Henati
 http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/94683/hls/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-cinema" tvg-logo="https://epg.iptvx.one/picons/eroluxe-cinema.png" group-title="Тест", EroLuxe cinema
