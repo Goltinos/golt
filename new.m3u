@@ -198,5 +198,6 @@ http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/96297/hls/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-publicagent" tvg-logo="https://epg.iptvx.one/picons/eroluxe-publicagent.png" group-title="Тест", EroLuxe publicagent
 http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/97159/hls/pl.m3u8
 
-#EXTINF:-1 tvg-id="0000" tvg-logo="0000.png" group-title="РОССИЯ SD",  Joy cook
+#EXTINF:-1 tvg-id="0000" tvg-logo="0000.png" group-title="РОССИЯ SD", Joy cook
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 https://mhd128.iptv2022.com/p/S077u52XfvcFltTh5J_qpA,1745528409/streaming/joycook/324/1/index.m3u8
