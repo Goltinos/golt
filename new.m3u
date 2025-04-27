@@ -91,6 +91,8 @@ http://109.200.130.123:7537/play/a023
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
+#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://epg.iptvx.one/picons/russky-detektiv.png" group-title="МЕЛОДРАМА", РУССКИЙ ДЕТЕКТИВ
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://sharingplus.net/iptv/8VXVBRTDB9QZSG/11003/index.m3u8
