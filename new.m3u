@@ -191,6 +191,8 @@ http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/97159/hls/pl.m3u8
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11027.m3u8?bw9414590877656
 #EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11035.m3u8
+#EXTINF:-1  tvg-id="bcu-kids-plus" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids+ HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11036.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/17023.m3u8
 #EXTINF:-1  tvg-id="bcu-russian" tvg-logo="https://iptvx.one/picons/bcu-russian.png" group-title="РУССКОЕ КИНО", BCU Russian HD
