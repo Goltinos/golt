@@ -42,7 +42,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epgx.site/p/tv1000-russkoe-kino.png" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
-http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
+http://de.online24.pm/play/81/AACDF424F824C27/video.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://epgx.site/p/mosfilm.png" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mosfilm_HD
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" group-title="РУССКОЕ КИНО", НАШЕ НОВОЕ КИНО
@@ -51,9 +51,9 @@ http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=s6zZEGXd20VRW3LVo0dC0A&e=1746795014&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://de.online24.pm/play/306/AACDF424F824C27/video.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=W7d5u67DTk-NCrGDNMhmIA&e=1746795054&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://de.online24.pm/play/83/AACDF424F824C27/video.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
 http://tinyurl.com/%74%76%7A%61%74%61%6B21/201.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
@@ -106,7 +106,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BRIDGE_TV_Russkiy_
 #EXTINF:-1 tvg-id="0000" tvg-logo="https://bridgetv.ru/s/img/logo/nopadding/bridgetv_dance.svg" group-title="МУЗЫКАЛЬНЫЕ", BRIDGE TV HITS
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_TV_Hits
 #EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://epgx.site/p/russian-musicbox.png" group-title="МУЗЫКАЛЬНЫЕ", Russian MusicBox
-https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russian_Musicbox_HD
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="213.png" group-title="КИНО И СЕРИАЛЫ", ФАНТАСТИКА HD
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
@@ -117,30 +117,26 @@ http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 
 #EXTINF:-1  tvg-id="vf-cartoon" tvg-logo="https://iptvx.one/picons/vf-cartoon.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", VF Cartoon
 http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/10002/index.m3u8
-#EXTINF:-1  tvg-id="vf-marvel" tvg-logo="https://iptvx.one/picons/vf-marvel.png" group-title="КИНО И СЕРИАЛЫ", VF Marvel
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/10081/index.m3u8
-#EXTINF:-1  tvg-id="vf-fantastic" tvg-logo="https://iptvx.one/picons/vf-fantastic.png" group-title="КИНО И СЕРИАЛЫ", VF Fantastic
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/11121/index.m3u8
-#EXTINF:-1  tvg-id="vf-vhs" tvg-logo="https://epg.iptvx.one/picons/vf-vhs.png" group-title="КИНО И СЕРИАЛЫ", VF VHS MIX
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/10009/index.m3u8
-#EXTINF:-1  tvg-id="vf-fantasy" tvg-logo="https://epg.iptvx.one/picons/vf-fantasy.png" group-title="КИНО И СЕРИАЛЫ", VF Fantasy
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/10005/index.m3u8
 
 #EXTINF:-1 tvg-id="yosso-rusfilm" tvg-logo="https://iptvx.one/picons/yosso-rusfilm.png" group-title="РУССКОЕ КИНО", Yosso TV Русские Фильмы
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/14174/index.m3u8
+http://de.online24.pm/play/8776/AACDF424F824C27/video.m3u8
 #EXTINF:-1  tvg-id="yosso-best" tvg-logo="https://iptvx.one/picons/yosso-best.png" group-title="КИНО И СЕРИАЛЫ", Yosso TV Best
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/14236/index.m3u8
+http://de.online24.pm/play/8781/AACDF424F824C27/video.m3u8
 #EXTINF:-1  tvg-id="yosso-adventure" tvg-logo="https://iptvx.one/picons/yosso-adventure.png" group-title="КИНО И СЕРИАЛЫ", Yosso Adventure
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/15510/index.m3u8
+http://de.online24.pm/play/8769/AACDF424F824C27/video.m3u8
 #EXTINF:-1  tvg-id="yyosso-disney" tvg-logo="https://epg.iptvx.one/picons/yosso-disney.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Yosso Disney
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/20164/index.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/YOSSO-Disney/video.m3u8?token=freeportal&token=7c3af16ff994ecc5f4aae9110497898e
 
 #EXTINF:-1  tvg-id="fresh-kids" tvg-logo="https://epg.iptvx.one/picons/fresh-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Fresh Kids
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/19288/index.m3u8
+http://de.online24.pm/play/1644/AACDF424F824C27/video.m3u8
 #EXTINF:-1  tvg-id="fresh-adventure" tvg-logo="https://epg.iptvx.one/picons/fresh-adventure.png" group-title="КИНО И СЕРИАЛЫ", Fresh Adventure
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/19297/index.m3u8
+http://de.online24.pm/play/1647/AACDF424F824C27/video.m3u8
+#EXTINF:-1  tvg-id="fresh-fantastic" tvg-logo="https://epg.iptvx.one/picons/fresh-fantastic.png" group-title="КИНО И СЕРИАЛЫ", Fresh Fantastic
+http://de.online24.pm/play/1639/AACDF424F824C27/video.m3u8
+#EXTINF:-1  tvg-id="fresh-thriller" tvg-logo="https://epg.iptvx.one/picons/fresh-thriller.png" group-title="КИНО И СЕРИАЛЫ",Fresh Thriller
+http://de.online24.pm/play/1687/AACDF424F824C27/video.m3u8
 #EXTINF:-1  tvg-id="fresh-russian" tvg-logo="https://epg.iptvx.one/picons/fresh-russian.png" group-title="РУССКОЕ КИНО", Fresh Russian
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/19299/index.m3u8
+http://de.online24.pm/play/1649/AACDF424F824C27/video.m3u8
 
 #EXTINF:-1  tvg-id="cineman-top" tvg-logo="https://epg.iptvx.one/picons/cineman-top.png" group-title="КИНО И СЕРИАЛЫ", CineMan Top
 http://e7dee866.cbilant.com/iptv/DBKNM5HQTQ2XH7/11005/index.m3u8
@@ -151,28 +147,28 @@ http://e7dee866.cbilant.com/iptv/DBKNM5HQTQ2XH7/11009/index.m3u8
 #EXTINF:-1  tvg-id="cineman-rukino" tvg-logo="https://epg.iptvx.one/picons/cineman-rukino.png" group-title="РУССКОЕ КИНО", CineMan РуКино
 http://e7dee866.cbilant.com/iptv/DBKNM5HQTQ2XH7/11013/index.m3u8
 
-#EXTINF:-1  tvg-id="0000" tvg-logo="213.png" group-title="КИНО И СЕРИАЛЫ", Z!Fantasy HD
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/31703/index.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="213.png" group-title="КИНО И СЕРИАЛЫ", Z!Thriller HD
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/31693/index.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="213.png" group-title="КИНО И СЕРИАЛЫ", Z!Action HD
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/31694/index.m3u8
-
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="РУССКОЕ КИНО", KLI Russian
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/18049/index.m3u8
+http://de.online24.pm/play/7340/AACDF424F824C27/video.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI New HD
+http://de.online24.pm/play/7347/AACDF424F824C27/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Premium HD
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/18048/index.m3u8
+http://de.online24.pm/play/7335/AACDF424F824C27/video.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Action HD
+http://de.online24.pm/play/7315/AACDF424F824C27/video.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Fantasy HD
+http://de.online24.pm/play/7324/AACDF424F824C27/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Marvel HD
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/31632/index.m3u8
+http://de.online24.pm/play/7331/AACDF424F824C27/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Franchise HD
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/31634/index.m3u8
+http://de.online24.pm/play/7325/AACDF424F824C27/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Fantastic HD
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/18050/index.m3u8
+http://de.online24.pm/play/7323/AACDF424F824C27/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Comedy HD
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/16080/index.m3u8
-
-#EXTINF:-1  tvg-id="c-marvel" tvg-logo="https://epg.iptvx.one/picons/c-marvel.png" group-title="КИНО И СЕРИАЛЫ", C-Marvel
-http://b017a3f3.ottrast.com/iptv/KG65Y7VHXL2AFY/16051/index.m3u8
+http://de.online24.pm/play/7318/AACDF424F824C27/video.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", KLI Kids FHD
+http://de.online24.pm/play/7330/AACDF424F824C27/video.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", KLI Мультики HD
+http://de.online24.pm/play/7345/AACDF424F824C27/video.m3u8
 
 #EXTINF:-1  tvg-id="eroluxe-henati" tvg-logo="https://epg.iptvx.one/picons/eroluxe-henati.png" group-title="Тест", EroLuxe Henati
 http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/94683/hls/pl.m3u8
@@ -182,8 +178,6 @@ http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/94185/hls/pl.m3u8
 http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/95284/hls/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-stepfamily" tvg-logo="https://epg.iptvx.one/picons/eroluxe-stepfamily.png" group-title="Тест", EroLuxe stepfamily
 http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/95947/hls/pl.m3u8
-#EXTINF:-1  tvg-id="eroluxe-faketaxi" tvg-logo="https://epg.iptvx.one/picons/eroluxe-faketaxi.png" group-title="Тест", EroLuxe faketaxi
-http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/96297/hls/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-publicagent" tvg-logo="https://epg.iptvx.one/picons/eroluxe-publicagent.png" group-title="Тест", EroLuxe publicagent
 http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/97159/hls/pl.m3u8
 
