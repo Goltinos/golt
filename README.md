@@ -10,6 +10,5 @@
                 <h1><div class="title">EPG</h1>
  <div class="box-text"><a href="https://epg.one/epg.xml" target="_blank">Ссылка </a></div>
             <code>https://epg.one/epg.xml</code>
-    <p>Количество каналов</p>
 </body>
 </html>
