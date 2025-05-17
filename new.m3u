@@ -95,7 +95,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
-http://sharingplus.net/iptv/8VXVBRTDB9QZSG/11003/index.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B21/348.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
 
@@ -146,26 +146,26 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B22/klifantastica/video.m3u8?token=freepo
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", KLI Kids FHD
 http://de.seetv.cc/play/7330/972FD16FEA741EF/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Action HD
-http://de.seetv.cc/play/7315/972FD16FEA741EF/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/kliaction/video.m3u8?token=freeportal&token=72a1e0e9f0182ffd2340246d177b0006
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Fantasy HD
 http://de.seetv.cc/play/7324/972FD16FEA741EF/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Franchise HD
-http://de.seetv.cc/play/7325/972FD16FEA741EF/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/klifantasy/video.m3u8?token=freeportal&token=80cfcb55217243a50b44d4b0b309f414
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Marvel HD
-http://de.seetv.cc/play/7331/972FD16FEA741EF/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/klimarvel/video.m3u8?token=freeportal&token=7c3af16ff994ecc5f4aae9110497898e
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI New HD
 http://de.seetv.cc/play/7347/972FD16FEA741EF/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Comedy HD
-http://de.seetv.cc/play/7318/972FD16FEA741EF/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/klicomedi/video.m3u8?token=freeportal&token=b953a202934c92f2b157040770d8c22f
 
 #EXTINF:-1  tvg-id="cineman-top" tvg-logo="https://epg.iptvx.one/picons/cineman-top.png" group-title="КИНО И СЕРИАЛЫ", CineMan Top
-http://e7dee866.cbilant.com/iptv/DBKNM5HQTQ2XH7/11005/index.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B21/350.m3u8
 #EXTINF:-1  tvg-id="cineman-action" tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" group-title="КИНО И СЕРИАЛЫ", CineMan Action
-http://e7dee866.cbilant.com/iptv/DBKNM5HQTQ2XH7/11006/index.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B21/351.m3u8
 #EXTINF:-1  tvg-id="cineman-marvel" tvg-logo="https://epg.iptvx.one/picons/cineman-marvel.png" group-title="КИНО И СЕРИАЛЫ", CineMan Marvel
-http://e7dee866.cbilant.com/iptv/DBKNM5HQTQ2XH7/11009/index.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B21/354.m3u8
 #EXTINF:-1  tvg-id="cineman-rukino" tvg-logo="https://epg.iptvx.one/picons/cineman-rukino.png" group-title="РУССКОЕ КИНО", CineMan РуКино
-http://e7dee866.cbilant.com/iptv/DBKNM5HQTQ2XH7/11013/index.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/CineMan-RuKino/video.m3u8?token=freeportal&token=b953a202934c92f2b157040770d8c22f
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/CPS_Anime/video.m3u8?token=freeportal&token=7c3af16ff994ecc5f4aae9110497898e
@@ -177,19 +177,19 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B22/CPS_Cartoon/video.m3u8?token=freeport
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/CPS_Comedy/video.m3u8?token=freeportal&token=bebe066f97b1364a415e9593bd406ccf
 
 #EXTINF:-1  tvg-id="bcu-action" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Action HD
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11027.m3u8?bw9414590877656
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/BCUActionHD/video.m3u8?token=freeportal&token=96c8bcb2a585efd1c7453c38f15bfcda
 #EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11035.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/BCUKidsHD/video.m3u8?token=freeportal&token=b0b884661b223ca377ba83aec0ed4934
 #EXTINF:-1  tvg-id="bcu-kids-plus" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids+ HD
 https://taptv.ru/channel/LQAFFA6I56G49639H4/11036.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/17023.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/BCUKids4K/video.m3u8?token=freeportal&token=8eb0e8043a6c018e8a8b25221d28e874
 #EXTINF:-1  tvg-id="bcu-russian" tvg-logo="https://iptvx.one/picons/bcu-russian.png" group-title="РУССКОЕ КИНО", BCU Russian HD
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11041.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/BCURussianHD/video.m3u8?token=freeportal&token=7c3af16ff994ecc5f4aae9110497898e
 #EXTINF:-1  tvg-id="bcu-fantastic" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" group-title="КИНО И СЕРИАЛЫ", BCU Fantastic HD
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/11032.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/BCUFantasticHD/video.m3u8?token=freeportal&token=50b26f7a30eb42914c8b022b72e9a11d
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
-https://taptv.ru/channel/G6B09HYE43K4LIK3AK/15025.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/BCUMarvelHD/video.m3u8?token=freeportal&token=bebe066f97b1364a415e9593bd406ccf
 
 #EXTINF:-1  tvg-id="eroluxe-henati" tvg-logo="https://epg.iptvx.one/picons/eroluxe-henati.png" group-title="Тест", EroLuxe Henati
 http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/94683/hls/pl.m3u8
