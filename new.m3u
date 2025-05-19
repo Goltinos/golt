@@ -122,7 +122,7 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B22/YOSSO-BEST/video.m3u8?token=freeporta
 #EXTINF:-1  tvg-id="yyosso-disney" tvg-logo="https://epg.iptvx.one/picons/yosso-disney.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Yosso Disney
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/YOSSO-Disney/video.m3u8?token=freeportal&token=7c3af16ff994ecc5f4aae9110497898e
 #EXTINF:-1  tvg-id="yosso-adventure" tvg-logo="https://iptvx.one/picons/yosso-adventure.png" group-title="КИНО И СЕРИАЛЫ", Yosso Adventure
-http://de.seetv.cc/play/8769/972FD16FEA741EF/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/YOSSO-ADVENTURE/video.m3u8?token=freeportal&token=9dedab005b5e381a94be8530806649ba
 
 #EXTINF:-1  tvg-id="fresh-kids" tvg-logo="https://epg.iptvx.one/picons/fresh-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Fresh Kids
 http://tinyurl.com/%74%76%7A%61%74%61%6B21/425.m3u8
@@ -135,7 +135,7 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B21/429.m3u8
 #EXTINF:-1  tvg-id="fresh-thriller" tvg-logo="https://epg.iptvx.one/picons/fresh-thriller.png" group-title="КИНО И СЕРИАЛЫ",Fresh Thriller
 http://tinyurl.com/%74%76%7A%61%74%61%6B21/434.m3u8
 #EXTINF:-1  tvg-id="fresh-russian" tvg-logo="https://epg.iptvx.one/picons/fresh-russian.png" group-title="РУССКОЕ КИНО", Fresh Russian
-http://de.seetv.cc/play/1649/972FD16FEA741EF/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/Fresh_Russian/video.m3u8?token=freeportal&token=bd0dee13eca9e4003e4cf1eb8978dfb7
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="РУССКОЕ КИНО", KLI Russian
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/klirussian/video.m3u8?token=freeportal&token=80cfcb55217243a50b44d4b0b309f414
@@ -144,17 +144,13 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B22/klipremium/video.m3u8?token=freeporta
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Fantastic HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/klifantastica/video.m3u8?token=freeportal&token=7c3af16ff994ecc5f4aae9110497898e
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", KLI Kids FHD
-http://de.seetv.cc/play/7330/972FD16FEA741EF/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/klikids/video.m3u8?token=freeportal&token=16ae6c0da7ebb6d5640a56eb1e4183ae
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Action HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/kliaction/video.m3u8?token=freeportal&token=72a1e0e9f0182ffd2340246d177b0006
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Fantasy HD
-http://de.seetv.cc/play/7324/972FD16FEA741EF/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Franchise HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/klifantasy/video.m3u8?token=freeportal&token=80cfcb55217243a50b44d4b0b309f414
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Marvel HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/klimarvel/video.m3u8?token=freeportal&token=7c3af16ff994ecc5f4aae9110497898e
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI New HD
-http://de.seetv.cc/play/7347/972FD16FEA741EF/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Comedy HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/klicomedi/video.m3u8?token=freeportal&token=b953a202934c92f2b157040770d8c22f
 
@@ -181,7 +177,7 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B22/BCUActionHD/video.m3u8?token=freeport
 #EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/BCUKidsHD/video.m3u8?token=freeportal&token=b0b884661b223ca377ba83aec0ed4934
 #EXTINF:-1  tvg-id="bcu-kids-plus" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids+ HD
-https://taptv.ru/channel/LQAFFA6I56G49639H4/11036.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/BCUKidsplusHD/video.m3u8?token=freeportal&token=6f1e12653b55d31cd94dead4d929cf30
 #EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/BCUKids4K/video.m3u8?token=freeportal&token=8eb0e8043a6c018e8a8b25221d28e874
 #EXTINF:-1  tvg-id="bcu-russian" tvg-logo="https://iptvx.one/picons/bcu-russian.png" group-title="РУССКОЕ КИНО", BCU Russian HD
