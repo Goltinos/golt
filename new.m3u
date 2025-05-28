@@ -102,8 +102,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 http://sharingplus.net/iptv/8VXVBRTDB9QZSG/11003/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
-#EXTINF:-1 tvg-id="animetv" tvg-logo="https://epg.iptvx.one/picons/animetv.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Anime TV
-https://mhd128.iptv2022.com/p/ZkpmzoXA-VERnvCt4B8E8Q,1748466007/streaming/anime_tv/324/1/index.m3u8
 
 #EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="МУЗЫКАЛЬНЫЕ", RU.TV
 http://%64m%693%79-%74%76.ru/hls/CH_RUTV.m3u8
