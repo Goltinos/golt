@@ -100,6 +100,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://sharingplus.net/iptv/8VXVBRTDB9QZSG/11003/index.m3u8
+#EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
+http://tinyurl.com/%74%76%7A%61%74%61%6B21/348.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
 
