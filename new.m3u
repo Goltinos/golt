@@ -55,21 +55,21 @@ http://109.248.236.51/viju_tv1000/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
 http://109.248.236.51/viju_tv1000_action/mono.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/201.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B21/201.m3u8?token=freeportal&token=0160a3de4ecdea35ebe5682c229d1183
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/200.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B21/200.m3u8?token=freeportal&token=0160a3de4ecdea35ebe5682c229d1183
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/265.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/Kinokomedia_HD/video.m3u8?token=freeportal&token=744be1e86794a4e4797327950d1ff04e
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://i.ibb.co/t88SCg0/kinopremera-hd.png" group-title="КИНО И СЕРИАЛЫ", КИНОПРЕМЬЕРА
-http://178.212.71.253:8000/play/125/index.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/Kinopremiera_HD/video.m3u8?token=freeportal&token=0160a3de4ecdea35ebe5682c229d1183
 #EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://i.ibb.co/1T8WsJp/kinosemya.png" group-title="КИНО И СЕРИАЛЫ", КИНОСЕМЬЯ HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/170.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/Kinosemya_HD/video.m3u8?token=freeportal&token=9dedab005b5e381a94be8530806649ba
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://i.ibb.co/5Kpxzhw/kinohit.png" group-title="КИНО И СЕРИАЛЫ", КИНОХИТ
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/126.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/Kinoxit/video.m3u8?token=freeportal&token=72a1e0e9f0182ffd2340246d177b0006
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
 
@@ -95,7 +95,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/348.m3u8
+http://sharingplus.net/iptv/8VXVBRTDB9QZSG/11003/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
 
@@ -125,15 +125,15 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B22/YOSSO-Disney/video.m3u8?token=freepor
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/YOSSO-ADVENTURE/video.m3u8?token=freeportal&token=9dedab005b5e381a94be8530806649ba
 
 #EXTINF:-1  tvg-id="fresh-kids" tvg-logo="https://epg.iptvx.one/picons/fresh-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Fresh Kids
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/425.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/Fresh_Kids/video.m3u8?token=freeportal&token=7c3af16ff994ecc5f4aae9110497898e
 #EXTINF:-1  tvg-id="fresh-adventure" tvg-logo="https://epg.iptvx.one/picons/fresh-adventure.png" group-title="КИНО И СЕРИАЛЫ", Fresh Adventure
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/432.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/Fresh_Adventure/video.m3u8?token=freeportal&token=16ae6c0da7ebb6d5640a56eb1e4183ae
 #EXTINF:-1  tvg-id="fresh-cinema" tvg-logo="https://epg.iptvx.one/picons/fresh-cinema.png" group-title="КИНО И СЕРИАЛЫ", Fresh Cinema
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/423.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/Fresh_Cinema/video.m3u8?token=freeportal&token=6f1e12653b55d31cd94dead4d929cf30
 #EXTINF:-1  tvg-id="fresh-fantastic" tvg-logo="https://epg.iptvx.one/picons/fresh-fantastic.png" group-title="КИНО И СЕРИАЛЫ", Fresh Fantastic
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/429.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/Fresh_Fantastic/video.m3u8?token=freeportal&token=0160a3de4ecdea35ebe5682c229d1183
 #EXTINF:-1  tvg-id="fresh-thriller" tvg-logo="https://epg.iptvx.one/picons/fresh-thriller.png" group-title="КИНО И СЕРИАЛЫ",Fresh Thriller
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/434.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/Fresh_Thriller/video.m3u8?token=freeportal&token=6f1e12653b55d31cd94dead4d929cf30
 #EXTINF:-1  tvg-id="fresh-russian" tvg-logo="https://epg.iptvx.one/picons/fresh-russian.png" group-title="РУССКОЕ КИНО", Fresh Russian
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/Fresh_Russian/video.m3u8?token=freeportal&token=bd0dee13eca9e4003e4cf1eb8978dfb7
 
@@ -155,11 +155,11 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B22/klimarvel/video.m3u8?token=freeportal
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/klicomedi/video.m3u8?token=freeportal&token=b953a202934c92f2b157040770d8c22f
 
 #EXTINF:-1  tvg-id="cineman-top" tvg-logo="https://epg.iptvx.one/picons/cineman-top.png" group-title="КИНО И СЕРИАЛЫ", CineMan Top
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/350.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/CineMan-TOP/video.m3u8?token=freeportal&token=9efdea9ae508190d798292fb58bd59a2
 #EXTINF:-1  tvg-id="cineman-action" tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" group-title="КИНО И СЕРИАЛЫ", CineMan Action
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/351.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/CineManAction/video.m3u8?token=freeportal&token=744be1e86794a4e4797327950d1ff04e
 #EXTINF:-1  tvg-id="cineman-marvel" tvg-logo="https://epg.iptvx.one/picons/cineman-marvel.png" group-title="КИНО И СЕРИАЛЫ", CineMan Marvel
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/354.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B22/CineMan-MARVEL/video.m3u8?token=freeportal&token=5be0eaec902c1c98ba1af5cb46fe3ddb
 #EXTINF:-1  tvg-id="cineman-rukino" tvg-logo="https://epg.iptvx.one/picons/cineman-rukino.png" group-title="РУССКОЕ КИНО", CineMan РуКино
 http://tinyurl.com/%74%76%7A%61%74%61%6B22/CineMan-RuKino/video.m3u8?token=freeportal&token=b953a202934c92f2b157040770d8c22f
 
