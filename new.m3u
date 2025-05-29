@@ -56,8 +56,12 @@ http://109.248.236.51/viju_tv1000/mono.m3u8
 http://109.248.236.51/viju_tv1000_action/mono.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
 http://tinyurl.com/%74%76%7A%61%74%61%6B21/201.m3u8?token=freeportal&token=0160a3de4ecdea35ebe5682c229d1183
+#EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTA4Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUyLzgxMDgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjEiLCJhZnAiOiI4MTA4IiwiYXRzIjoiMzM2IiwibCI6IjZkMDc1Zjk0IiwicCI6IjZkMDc1Zjk0N2VlOTAyYTYiLCJjIjoiMTA0IiwidCI6IjZkN2JlMjhlYzUxOTFlMmJlY2Q0NDBlY2ViN2UwNmM1IiwiZCI6IjI1OTk2NyIsInIiOiIyNjU0ODEiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMDgvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B21/200.m3u8?token=freeportal&token=0160a3de4ecdea35ebe5682c229d1183
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTA5Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUyLzgxMDkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjEiLCJhZnAiOiI4MTA5IiwiYXRzIjoiMzM2IiwibCI6IjZkMDc1Zjk0IiwicCI6IjZkMDc1Zjk0N2VlOTAyYTYiLCJjIjoiMTA1IiwidCI6IjZkN2JlMjhlYzUxOTFlMmJlY2Q0NDBlY2ViN2UwNmM1IiwiZCI6IjI1OTk2NyIsInIiOiIyNjU0ODEiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMDkvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ
@@ -96,6 +100,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://sharingplus.net/iptv/8VXVBRTDB9QZSG/11003/index.m3u8
+#EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
+http://tinyurl.com/%74%76%7A%61%74%61%6B21/348.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
 
