@@ -176,6 +176,25 @@ http://de.online24.pm/play/7104/152A61E307BD825/video.m3u8
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
 http://de.online24.pm/play/7108/152A61E307BD825/video.m3u8
 
+#EXTINF:-1  tvg-id="skyhigh-anime" tvg-logo="https://epg.iptvx.one/picons/skyhigh-anime.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", SKY HIGH ANIME HD
+http://vipl.one/hls/cf4wbak7ur5s/1533.m3u8
+#EXTINF:-1  tvg-id="animetv" tvg-logo="https://epg.iptvx.one/picons/animetv.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Anime TV
+http://vipl.one/hls/cf4wbak7ur5s/1491.m3u8
+#EXTINF:-1  tvg-id="e-tv" tvg-logo="https://epg.iptvx.one/picons/e-tv.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", E TV
+http://vipl.one/hls/cf4wbak7ur5s/1150.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", 1Filmax
+http://vipl.one/hls/cf4wbak7ur5s/1169.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", 2Filmax
+http://vipl.one/hls/cf4wbak7ur5s/1170.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", 3Filmax
+http://vipl.one/hls/cf4wbak7ur5s/878.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", 4Filmax
+http://vipl.one/hls/cf4wbak7ur5s/879.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", 5Filmax
+http://vipl.one/hls/cf4wbak7ur5s/1100.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", 6Filmax
+http://vipl.one/hls/cf4wbak7ur5s/1426.m3u8
+
 #EXTINF:-1  tvg-id="eroluxe-henati" tvg-logo="https://epg.iptvx.one/picons/eroluxe-henati.png" group-title="Тест", EroLuxe Henati
 http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/94683/hls/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-cinema" tvg-logo="https://epg.iptvx.one/picons/eroluxe-cinema.png" group-title="Тест", EroLuxe cinema
@@ -186,3 +205,5 @@ http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/95284/hls/pl.m3u8
 http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/95947/hls/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-publicagent" tvg-logo="https://epg.iptvx.one/picons/eroluxe-publicagent.png" group-title="Тест", EroLuxe publicagent
 http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/97159/hls/pl.m3u8
+#EXTINF:-1  tvg-id="eroluxe-4k60fps" tvg-logo="https://epg.iptvx.one/picons/eroluxe-4k60fps.png" group-title="Тест", EroLuxe 4k60fps
+http://vipl.one/hls/cf4wbak7ur5s/1705.m3u8
