@@ -55,9 +55,9 @@ http://de.online24.pm/play/82/152A61E307BD825/video.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
 http://de.online24.pm/play/83/152A61E307BD825/video.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
-http://view.my-tv.biz/tv/a652df196c/f6544733f0/video.m3u8
+http://vipl.one/hls/cf4wbak7ur5s/104.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
-http://view.my-tv.biz/tv/a652df196c/d92fdef31c/video.m3u8
+http://vipl.one/hls/cf4wbak7ur5s/105.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
@@ -205,5 +205,3 @@ http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/95284/hls/pl.m3u8
 http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/95947/hls/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-publicagent" tvg-logo="https://epg.iptvx.one/picons/eroluxe-publicagent.png" group-title="Тест", EroLuxe publicagent
 http://rr2.vip2ip.com/~206bdac43d4da713e97f4c94fd5d0e556c0/97159/hls/pl.m3u8
-#EXTINF:-1  tvg-id="eroluxe-4k60fps" tvg-logo="https://epg.iptvx.one/picons/eroluxe-4k60fps.png" group-title="Тест", EroLuxe 4k60fps
-http://vipl.one/hls/cf4wbak7ur5s/1705.m3u8
