@@ -195,3 +195,5 @@ http://vipl.one/hls/ehcpxsvujfzw/1688.m3u8
 http://vipl.one/hls/ehcpxsvujfzw/1703.m3u8
 #EXTINF:-1  tvg-id="eroluxe-russian" tvg-logo="https://epg.iptvx.one/picons/eroluxe-russian.png" group-title="Тест", EroLuxe Russian Teens
 http://vipl.one/hls/ehcpxsvujfzw/1698.m3u8
+#EXTINF:-1  tvg-id="0000" group-title="Тест", Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
