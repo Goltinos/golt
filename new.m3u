@@ -51,7 +51,7 @@ http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000
-https://vod.splay.uz/live_splay/original/TV1000/mono.ts.m3u8
+http://vipl.one/hls/3zrp9wdv6ijb/103.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
 http://tinyurl.com/%74%76%7A%61%74%61%6B31/2gTpcA8hiV/cnb0y9n3633wb3wnppri4wg6
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
@@ -63,11 +63,11 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ
-https://vod.splay.uz/live_splay/original/Kinokomediya/mono.ts.m3u8
+http://vipl.one/hls/3zrp9wdv6ijb/119.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://i.ibb.co/1T8WsJp/kinosemya.png" group-title="КИНО И СЕРИАЛЫ", КИНОСЕМЬЯ HD
-https://vod.splay.uz/live_splay/original/Kinosemya/mono.ts.m3u8
+http://vipl.one/hls/3zrp9wdv6ijb/123.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://i.ibb.co/5Kpxzhw/kinohit.png" group-title="КИНО И СЕРИАЛЫ", КИНОХИТ
-https://vod.splay.uz/live_splay/original/Kinoxit/mono.ts.m3u8
+http://vipl.one/hls/3zrp9wdv6ijb/118.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
 
