@@ -113,9 +113,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russian_Musicbox_H
 #EXTINF:-1  tvg-id="yosso-adventure" tvg-logo="https://iptvx.one/picons/yosso-adventure.png" group-title="КИНО И СЕРИАЛЫ", Yosso Adventure
 http://de.online24.pm/play/8769/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="yosso-rusfilm" tvg-logo="https://iptvx.one/picons/yosso-rusfilm.png" group-title="РУССКОЕ КИНО", Yosso TV Русские Фильмы
-http://de.online24.pm/play/8776/FB4F94DA00C3BE0/video.m3u8
+http://vod.stb.tvime.ru/Yosso_TV_Rus_Film/video.m3u8?token=g4F645vc89fd
 #EXTINF:-1  tvg-id="yosso-best" tvg-logo="https://iptvx.one/picons/yosso-best.png" group-title="КИНО И СЕРИАЛЫ", Yosso TV Best
-http://de.online24.pm/play/8781/FB4F94DA00C3BE0/video.m3u8
+http://vod.stb.tvime.ru/Yosso_TV_BEST/video.m3u8?token=g4F645vc89fd
 #EXTINF:-1  tvg-id="yosso-kids" tvg-logo="https://epg.iptvx.one/picons/yosso-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Yosso Kids
 http://de.online24.pm/play/8777/FB4F94DA00C3BE0/video.m3u8
 
