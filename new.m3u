@@ -37,6 +37,43 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="РОССИЯ Липецк", ПЕРВЫЙ
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_1TV.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="РОССИЯ Липецк", РОССИЯ 1
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ROSSIA1.m3u8
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://epgx.site/p/tvcentr.png" group-title="РОССИЯ Липецк", ТВЦ
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_TVC.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://epgx.site/p/ntv.png" group-title="РОССИЯ Липецк", НТВ
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_NTV.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="РОССИЯ Липецк", ТНТ
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_TNT.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://epgx.site/p/rentv.png" group-title="РОССИЯ Липецк ", РЕН ТВ
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_RENTV.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="РОССИЯ Липецк", ДОМАШНИЙ
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_DOMASHNIY.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="РОССИЯ Липецк", СТС
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_STS.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://epgx.site/p/tv3-ru.png" group-title="РОССИЯ Липецк", ТВ3
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_TV3.m3u8
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png" group-title="РОССИЯ Липецк", ПЯТНИЦА
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_FRIDAY.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png" group-title="РОССИЯ Липецк", ПЯТЫЙ КАНАЛ
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_5TV.m3u8
+#EXTINF:-1 tvg-id="che" tvg-logo="https://epgx.site/p/che.png" group-title="РОССИЯ Липецк", ЧЕ
+#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
+http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_CHE.m3u8
+
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://epgx.site/p/domkino.png" group-title="РУССКОЕ КИНО", ДОМ КИНО
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
