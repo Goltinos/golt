@@ -145,6 +145,13 @@ http://31.210.208.171:8080/bridge_hits/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://epgx.site/p/russian-musicbox.png" group-title="МУЗЫКАЛЬНЫЕ", Russian MusicBox
 http://arbiter.bolshoe.tv/?path=streaming/mboxru/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI1IDY6NTg6MTkgQU0maGFzaF92YWx1ZT1RTUI0SUJzRWpsTkFsZ3RwbTFYUk9BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
+#EXTINF:-1  tvg-id="fresh-adventure" tvg-logo="https://epg.iptvx.one/picons/fresh-adventure.png" group-title="КИНО И СЕРИАЛЫ", Fresh Adventure
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1647/336F269AE47D41D/video.m3u8
+#EXTINF:-1  tvg-id="fresh-cinema" tvg-logo="https://epg.iptvx.one/picons/fresh-cinema.png" group-title="КИНО И СЕРИАЛЫ", Fresh Cinema
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1645/336F269AE47D41D/video.m3u8
+#EXTINF:-1  tvg-id="fresh-fantastic" tvg-logo="https://epg.iptvx.one/picons/fresh-fantastic.png" group-title="КИНО И СЕРИАЛЫ", Fresh Fantastic
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1639/336F269AE47D41D/video.m3u8
+
 #EXTINF:-1  tvg-id="cineman-top" tvg-logo="https://epg.iptvx.one/picons/cineman-top.png" group-title="КИНО И СЕРИАЛЫ", CineMan Top
 http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/29842/hls/pl.m3u8
 #EXTINF:-1  tvg-id="cineman-action" tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" group-title="КИНО И СЕРИАЛЫ", CineMan Action
@@ -162,6 +169,11 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B31/LcExrsPjnL/cnb0y9n3633wb3wnppri4wg6
 http://tinyurl.com/%74%76%7A%61%74%61%6B31/vYCqDYJMWc/cnb0y9n3633wb3wnppri4wg6
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
 http://de.online24.pm/play/7108/FB4F94DA00C3BE0/video.m3u8
+
+#EXTINF:-1  tvg-id="liberty-dreamworks" tvg-logo="https://epg.iptvx.one/picons/liberty-dreamworks.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Dreamworks
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1865/336F269AE47D41D/video.m3u8
+#EXTINF:-1  tvg-id="liberty-mult" tvg-logo="https://epg.iptvx.one/picons/liberty-mult.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Мульт
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1868/336F269AE47D41D/video.m3u8
 
 #EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B31/qzAXRRySLi/cnb0y9n3633wb3wnppri4wg6
