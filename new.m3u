@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 url-tvg="https://iptvx.one/EPG_LITE/epg_lite.xml.gz" tvg-shift=0 cache=500
+#EXTM3U deinterlace=1 url-tvg="https://iptvx.one/EPG_LITE/epg_lite.xml.gz" tvg-shift=0 cache=1000
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="РОССИЯ SD", ПЕРВЫЙ
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
@@ -146,34 +146,40 @@ http://31.210.208.171:8080/bridge_hits/index.m3u8?token=+W2MSER
 http://arbiter.bolshoe.tv/?path=streaming/mboxru/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI1IDY6NTg6MTkgQU0maGFzaF92YWx1ZT1RTUI0SUJzRWpsTkFsZ3RwbTFYUk9BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1  tvg-id="fresh-adventure" tvg-logo="https://epg.iptvx.one/picons/fresh-adventure.png" group-title="КИНО И СЕРИАЛЫ", Fresh Adventure
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1647/336F269AE47D41D/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1647/C19ADBD7A62F760/video.m3u8
 #EXTINF:-1  tvg-id="fresh-cinema" tvg-logo="https://epg.iptvx.one/picons/fresh-cinema.png" group-title="КИНО И СЕРИАЛЫ", Fresh Cinema
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1645/336F269AE47D41D/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1645/C19ADBD7A62F760/video.m3u8
 #EXTINF:-1  tvg-id="fresh-fantastic" tvg-logo="https://epg.iptvx.one/picons/fresh-fantastic.png" group-title="КИНО И СЕРИАЛЫ", Fresh Fantastic
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1639/336F269AE47D41D/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1639/C19ADBD7A62F760/video.m3u8
+#EXTINF:-1  tvg-id="fresh-rating" tvg-logo="https://epg.iptvx.one/picons/fresh-rating.png" group-title="КИНО И СЕРИАЛЫ", Fresh Rating
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1641/C19ADBD7A62F760/video.m3u8
+#EXTINF:-1  tvg-id="fresh-kids" tvg-logo="https://epg.iptvx.one/picons/fresh-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Fresh Kids
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1644/C19ADBD7A62F760/video.m3u8
+#EXTINF:-1  tvg-id="fresh-russian" tvg-logo="https://epg.iptvx.one/picons/fresh-russian.png" group-title="РУССКОЕ КИНО", Fresh Russian
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1649/C19ADBD7A62F760/video.m3u8
 
 #EXTINF:-1  tvg-id="cineman-top" tvg-logo="https://epg.iptvx.one/picons/cineman-top.png" group-title="КИНО И СЕРИАЛЫ", CineMan Top
-http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/29842/hls/pl.m3u8
+http://178.217.72.66:8080/CineMan_Top/index.m3u8
 #EXTINF:-1  tvg-id="cineman-action" tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" group-title="КИНО И СЕРИАЛЫ", CineMan Action
-http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/63846/hls/pl.m3u8
+http://178.217.72.66:8080/CineMan_Action/index.m3u8
 #EXTINF:-1  tvg-id="cineman-marvel" tvg-logo="https://epg.iptvx.one/picons/cineman-marvel.png" group-title="КИНО И СЕРИАЛЫ", CineMan Marvel
-http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/47931/hls/pl.m3u8
+http://178.217.72.66:8080/CineMan_Marvel/index.m3u8
 #EXTINF:-1  tvg-id="cineman-pes" tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" group-title="РУССКОЕ КИНО", CineMan Пёс
 http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/28488/hls/pl.m3u8
 
 #EXTINF:-1  tvg-id="bcu-action" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Action HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B31/FjSHYiDSAi/cnb0y9n3633wb3wnppri4wg6
+http://178.217.72.66:8080/BCUActionHD/index.m3u8
 #EXTINF:-1  tvg-id="bcu-russian" tvg-logo="https://iptvx.one/picons/bcu-russian.png" group-title="РУССКОЕ КИНО", BCU Russian HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B31/LcExrsPjnL/cnb0y9n3633wb3wnppri4wg6
 #EXTINF:-1  tvg-id="bcu-fantastic" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" group-title="КИНО И СЕРИАЛЫ", BCU Fantastic HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B31/vYCqDYJMWc/cnb0y9n3633wb3wnppri4wg6
+http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
 http://de.online24.pm/play/7108/FB4F94DA00C3BE0/video.m3u8
 
 #EXTINF:-1  tvg-id="liberty-dreamworks" tvg-logo="https://epg.iptvx.one/picons/liberty-dreamworks.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Dreamworks
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1865/336F269AE47D41D/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1865/C19ADBD7A62F760/video.m3u8
 #EXTINF:-1  tvg-id="liberty-mult" tvg-logo="https://epg.iptvx.one/picons/liberty-mult.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Мульт
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1868/336F269AE47D41D/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1868/C19ADBD7A62F760/video.m3u8
 
 #EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B31/qzAXRRySLi/cnb0y9n3633wb3wnppri4wg6
@@ -183,8 +189,8 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B31/BEijniXEoC/cnb0y9n3633wb3wnppri4wg6
 http://tinyurl.com/%74%76%7A%61%74%61%6B31/EArnsUMeWO/cnb0y9n3633wb3wnppri4wg6
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1743/336F269AE47D41D/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1743/C19ADBD7A62F760/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", CPS Action HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1744/336F269AE47D41D/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1744/C19ADBD7A62F760/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Cartoon HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1748/336F269AE47D41D/video.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1748/C19ADBD7A62F760/video.m3u8
