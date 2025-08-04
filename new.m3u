@@ -169,8 +169,6 @@ http://178.217.72.66:8080/CineMan_Action/index.m3u8
 #EXTINF:-1  tvg-id="cineman-marvel" tvg-logo="https://epg.iptvx.one/picons/cineman-marvel.png" group-title="КИНО И СЕРИАЛЫ", CineMan Marvel
 http://178.217.72.66:8080/CineMan_Marvel/index.m3u8
 #EXTINF:-1  tvg-id="cineman-pes" tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" group-title="РУССКОЕ КИНО", CineMan Пёс
-http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/28488/hls/pl.m3u8
-#EXTINF:-1  tvg-id="cineman-pes" tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" group-title="РУССКОЕ КИНО", CineMan Пёс
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/16064/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", MM Полицейский с Рублёвки HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/13049/index.m3u8
@@ -189,7 +187,7 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31661/index.m3u8
 #EXTINF:-1  tvg-id="liberty-mult" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Мульт FHD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/18051/index.m3u8
 #EXTINF:-1  tvg-id="liberty-pixar" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Пиксар FHD
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/15092/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/BCN3KU56BYMNMV/15092/index.m3u8
 #EXTINF:-1  tvg-id="liberty-disney" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дисней FHD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/15093/index.m3u8
 
@@ -254,3 +252,13 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/12155/index.m3u8
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/12156/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Bratty Sis
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/12161/index.m3u8 
+#EXTINF:-1  tvg-id="eroluxe-henati" group-title="ТЕСТ", EroLuxe Henati
+http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/94683/hls/pl.m3u8
+#EXTINF:-1  tvg-id="eroluxe-cinema" group-title="ТЕСТ", EroLuxe cinema
+http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/94185/hls/pl.m3u8
+#EXTINF:-1  tvg-id="eroluxe-stepfamily" group-title="ТЕСТ", EroLuxe stepfamily
+http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/95947/hls/pl.m3u8
+#EXTINF:-1  tvg-id="eroluxe-russian" group-title="ТЕСТ", EroLuxe Russian Teens
+http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/95728/hls/pl.m3u8
+#EXTINF:-1  tvg-id="eroluxe-cosplay" group-title="ТЕСТ", EroLuxe Cosplay
+http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/94251/hls/pl.m3u8
