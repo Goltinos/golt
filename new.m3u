@@ -200,8 +200,12 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B31/EArnsUMeWO/cnb0y9n3633wb3wnppri4wg6
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B30/1743/D9D274632B4F6F6/video.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
+http://de.online24.pm/play/1743/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", CPS Action HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B30/1744/D9D274632B4F6F6/video.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", CPS Action HD
+http://de.online24.pm/play/1744/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Cartoon HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B30/1748/D9D274632B4F6F6/video.m3u8
 
@@ -262,3 +266,4 @@ http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/95947/hls/pl.m3
 http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/95728/hls/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-cosplay" group-title="ТЕСТ", EroLuxe Cosplay
 http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/94251/hls/pl.m3u8
+
