@@ -169,7 +169,7 @@ http://178.217.72.66:8080/CineMan_Action/index.m3u8
 #EXTINF:-1  tvg-id="cineman-marvel" tvg-logo="https://epg.iptvx.one/picons/cineman-marvel.png" group-title="КИНО И СЕРИАЛЫ", CineMan Marvel
 http://178.217.72.66:8080/CineMan_Marvel/index.m3u8
 #EXTINF:-1  tvg-id="cineman-pes" tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" group-title="РУССКОЕ КИНО", CineMan Пёс
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/16064/index.m3u8
+http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/16064/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", MM Полицейский с Рублёвки HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/13049/index.m3u8
 
@@ -221,30 +221,26 @@ http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/10009/index.m3u8
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/10005/index.m3u8
 
 #EXTINF:-1  tvg-id="yosso-rusfilm" tvg-logo="https://iptvx.one/picons/yosso-rusfilm.png" group-title="РУССКОЕ КИНО", Yosso TV Русские Фильмы
-http://vs6.cdn.mrf.tvime.ru/Yosso_TV_Rus_Film/video.m3u8?token=billing_w5lN24ih7E8d5x==
+http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/14174/index.m3u8
 #EXTINF:-1  tvg-id="yosso-best" tvg-logo="https://iptvx.one/picons/yosso-best.png" group-title="КИНО И СЕРИАЛЫ", Yosso TV Best
-http://vs6.cdn.mrf.tvime.ru/Yosso_TV_BEST/video.m3u8?token=billing_w5lN24ih7E8d5x==
+http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/14236/index.m3u8
 #EXTINF:-1  tvg-id="yosso-adventure" tvg-logo="https://iptvx.one/picons/yosso-adventure.png" group-title="КИНО И СЕРИАЛЫ", Yosso Adventure
-http://vs6.cdn.mrf.tvime.ru/Yosso_TV_Adventure/video.m3u8?token=billing_w5lN24ih7E8d5x==
+http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/15510/index.m3u8
 #EXTINF:-1  tvg-id="yosso-kids" tvg-logo="https://epg.iptvx.one/picons/yosso-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Yosso Kids
-http://vs6.cdn.mrf.tvime.ru/Yosso_TV_Kids/video.m3u8?token=billing_w5lN24ih7E8d5x==
+http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/14173/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="РУССКОЕ КИНО", KLI Russian
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/18049/index.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Premium HD
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/18048/index.m3u8
+http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/18049/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Action HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/20051/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Fantasy HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/20054/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Marvel HD
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31632/index.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Franchise HD
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31634/index.m3u8
+http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/31632/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Fantastic HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/18050/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Comedy HD
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/16080/index.m3u8
+http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/16080/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", KLI Kids FHD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/20047/index.m3u8
 
@@ -266,4 +262,3 @@ http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/95947/hls/pl.m3
 http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/95728/hls/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-cosplay" group-title="ТЕСТ", EroLuxe Cosplay
 http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/94251/hls/pl.m3u8
-
