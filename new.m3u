@@ -77,7 +77,7 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_CHE.m3u8
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://epgx.site/p/domkino.png" group-title="РУССКОЕ КИНО", ДОМ КИНО
 http://31.210.208.171:8080/dom_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
-http://176.62.72.48:8001/play/a04z/index.m3u8
+http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epgx.site/p/tv1000-russkoe-kino.png" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://tinyurl.com/%74%76%7A%61%74%61%6B31/TV1000RusskoeKino/cnb0y9n3633wb3wnppri4wg6
@@ -262,3 +262,4 @@ http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/95947/hls/pl.m3
 http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/95728/hls/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-cosplay" group-title="ТЕСТ", EroLuxe Cosplay
 http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/94251/hls/pl.m3u8
+
