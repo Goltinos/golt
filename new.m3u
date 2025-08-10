@@ -84,7 +84,7 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B31/TV1000RusskoeKino/cnb0y9n3633wb3wnppr
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://epgx.site/p/mosfilm.png" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://178.217.72.66:8080/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" group-title="РУССКОЕ КИНО", НАШЕ НОВОЕ КИНО
-http://178.212.71.253:8002/play/a00i/index.m3u8
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -102,7 +102,7 @@ http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
 http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ
-http://178.212.71.253:8000/play/85/index.m3u8
+http://178.217.72.66:8080/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://i.ibb.co/1T8WsJp/kinosemya.png" group-title="КИНО И СЕРИАЛЫ", КИНОСЕМЬЯ HD
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://i.ibb.co/5Kpxzhw/kinohit.png" group-title="КИНО И СЕРИАЛЫ", КИНОХИТ
@@ -185,16 +185,16 @@ http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11038/index.m3u8
 #EXTINF:-1  tvg-id="liberty-dreamworks" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дрим воркс FHD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31661/index.m3u8
 #EXTINF:-1  tvg-id="liberty-mult" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Мульт FHD
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/18051/index.m3u8
+http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/18051/index.m3u8
 #EXTINF:-1  tvg-id="liberty-pixar" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Пиксар FHD
 http://rhsbjv7k.tvclub.xyz/iptv/BCN3KU56BYMNMV/15092/index.m3u8
 #EXTINF:-1  tvg-id="liberty-disney" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дисней FHD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/15093/index.m3u8
 
 #EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B31/qzAXRRySLi/cnb0y9n3633wb3wnppri4wg6
+http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/11035/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-plus" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids+ HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B31/BEijniXEoC/cnb0y9n3633wb3wnppri4wg6
+http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/11036/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
 http://tinyurl.com/%74%76%7A%61%74%61%6B31/EArnsUMeWO/cnb0y9n3633wb3wnppri4wg6
 
@@ -244,6 +244,15 @@ http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/16080/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", KLI Kids FHD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/20047/index.m3u8
 
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Dosug Kids
+http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/14214/index.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Dosug TV New HD
+http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/14216/index.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Dosug TV Marvel HD
+http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/14215/index.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Dosug TV Fantastic HD
+http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/14210/index.m3u8
+
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Daughter Swap
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6191/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Family Swap
@@ -262,4 +271,3 @@ http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/95947/hls/pl.m3
 http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/95728/hls/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-cosplay" group-title="ТЕСТ", EroLuxe Cosplay
 http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/94251/hls/pl.m3u8
-
