@@ -123,13 +123,13 @@ http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://s3.spbtv.com/rosing-production/80d3d63b673986b5093f_250x250c.png" group-title="МЕЛОДРАМА", РУССКИЙ ИЛЛЮЗИОН
-http://31.148.48.15:80/Russkiy_illusion/index.m3u8
+http://178.212.71.253:8000/play/49/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://only4.tv/ch/424.png" group-title="МЕЛОДРАМА", РУССКИЙ РОМАН
-http://31.148.48.15:80/Russkiy_Roman/index.m3u8
+http://37.186.120.3:8000/play/a0ai/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
-http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8
+http://178.212.71.253:8000/play/115/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://epg.iptvx.one/picons/russky-detektiv.png" group-title="МЕЛОДРАМА", РУССКИЙ ДЕТЕКТИВ
-http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
+http://178.212.71.253:8000/play/45/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://sharingplus.net/iptv/8VXVBRTDB9QZSG/11003/index.m3u8
@@ -273,3 +273,4 @@ http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/95947/hls/pl.m3
 http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/95728/hls/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-cosplay" group-title="ТЕСТ", EroLuxe Cosplay
 http://rr3.vipshara-iptv.com/109e1a3c05fcad5b22d13b9453dc0db5122/94251/hls/pl.m3u8
+
