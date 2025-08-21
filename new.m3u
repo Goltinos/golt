@@ -1,42 +1,5 @@
 #EXTM3U deinterlace=1 url-tvg="https://iptvx.one/EPG_LITE/epg_lite.xml.gz" tvg-shift=0 cache=500
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="РОССИЯ SD", ПЕРВЫЙ
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="РОССИЯ SD", РОССИЯ 1
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://epgx.site/p/tvcentr.png" group-title="РОССИЯ SD", ТВЦ
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://epgx.site/p/ntv.png" group-title="РОССИЯ SD", НТВ
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="РОССИЯ SD", ТНТ
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-logo="https://epgx.site/p/rentv.png" group-title="РОССИЯ SD ", РЕН ТВ
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="РОССИЯ SD", ДОМАШНИЙ
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="РОССИЯ SD", СТС
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://epgx.site/p/tv3-ru.png" group-title="РОССИЯ SD", ТВ3
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png" group-title="РОССИЯ SD", ПЯТНИЦА
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png" group-title="РОССИЯ SD", ПЯТЫЙ КАНАЛ
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 tvg-id="che" tvg-logo="https://epgx.site/p/che.png" group-title="РОССИЯ SD", ЧЕ
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="РОССИЯ Липецк", ПЕРВЫЙ
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_1TV.m3u8
@@ -132,8 +95,6 @@ http://77.235.1.19:8000/play/a08g/index.m3u8
 http://77.235.1.19:8000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
-http://sharingplus.net/iptv/8VXVBRTDB9QZSG/11003/index.m3u8
-#EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11003/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
@@ -170,6 +131,10 @@ http://178.217.72.66:8080/CineMan_Marvel/index.m3u8
 http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/16064/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", MM Полицейский с Рублёвки HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/13049/index.m3u8
+#EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", VF Счастливы Вместе
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/9242/index.m3u8
+#EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", VF Сверхъестественное
+http://1b227bf4.edmonst.net/iptv/4W93CEH26XT6N5GBA5HFY4KK/17003/index.m3u8
 
 #EXTINF:-1  tvg-id="bcu-action" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Action HD
 http://178.217.72.66:8080/BCUActionHD/index.m3u8
@@ -179,6 +144,12 @@ http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11041/index.m3u8
 http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11038/index.m3u8
+#EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
+http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/11035/index.m3u8
+#EXTINF:-1  tvg-id="bcu-kids-plus" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids+ HD
+http://1b227bf4.edmonst.net/iptv/4W93CEH26XT6N5GBA5HFY4KK/11036/index.m3u8
+#EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
+http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/17023/index.m3u8
 
 #EXTINF:-1  tvg-id="liberty-dreamworks" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дрим воркс FHD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31661/index.m3u8
@@ -189,28 +160,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/BCN3KU56BYMNMV/15092/index.m3u8
 #EXTINF:-1  tvg-id="liberty-disney" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дисней FHD
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/15093/index.m3u8
 
-#EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
-http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/11035/index.m3u8
-#EXTINF:-1  tvg-id="bcu-kids-plus" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids+ HD
-http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/11036/index.m3u8
-#EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
-http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/17023/index.m3u8
-
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B30/1743/D9D274632B4F6F6/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
 http://de.online24.pm/play/1743/FB4F94DA00C3BE0/video.m3u8
-
-#EXTINF:-1  tvg-id="vf-cartoon" tvg-logo="https://iptvx.one/picons/vf-cartoon.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", VF Cartoon
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/10002/index.m3u8
-#EXTINF:-1  tvg-id="vf-marvel" tvg-logo="https://iptvx.one/picons/vf-marvel.png" group-title="КИНО И СЕРИАЛЫ", VF Marvel
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/10081/index.m3u8
-#EXTINF:-1  tvg-id="vf-fantastic" tvg-logo="https://iptvx.one/picons/vf-fantastic.png" group-title="КИНО И СЕРИАЛЫ", VF Fantastic
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11121/index.m3u8
-#EXTINF:-1  tvg-id="vf-vhs" tvg-logo="https://epg.iptvx.one/picons/vf-vhs.png" group-title="КИНО И СЕРИАЛЫ", VF VHS MIX
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/10009/index.m3u8
-#EXTINF:-1  tvg-id="vf-fantasy" tvg-logo="https://epg.iptvx.one/picons/vf-fantasy.png" group-title="КИНО И СЕРИАЛЫ", VF Fantasy
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/10005/index.m3u8
 
 #EXTINF:-1  tvg-id="yosso-rusfilm" tvg-logo="https://iptvx.one/picons/yosso-rusfilm.png" group-title="РУССКОЕ КИНО", Yosso TV Русские Фильмы
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/14174/index.m3u8
@@ -226,11 +179,11 @@ http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/18049/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Action HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/20051/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Fantasy HD
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/20054/index.m3u8
+http://4701ebc9.ottolok.net/iptv/ZXSN89HVREL5FNDQAERWT7T5/20054/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Marvel HD
 http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/31632/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Fantastic HD
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/18050/index.m3u8
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/18050/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KLI Comedy HD
 http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/16080/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", KLI Kids FHD
@@ -238,8 +191,6 @@ http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/20047/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Dosug Kids
 http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/14214/index.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Dosug TV New HD
-http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/14216/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Dosug TV Marvel HD
 http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/14215/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Dosug TV Fantastic HD
@@ -257,12 +208,7 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/12161/index.m3u8
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/11052/index.m3u8
 #EXTINF:-1  tvg-id="eroluxe-henati" group-title="ТЕСТ", EroLuxe Henati
 http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/94683/hlsx/pl.m3u8
-#EXTINF:-1  tvg-id="eroluxe-cinema" group-title="ТЕСТ", EroLuxe cinema
-http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/94185/hlsx/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-stepfamily" group-title="ТЕСТ", EroLuxe stepfamily
 http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/95947/hlsx/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-russian" group-title="ТЕСТ", EroLuxe Russian Teens
 http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/95728/hlsx/pl.m3u8
-#EXTINF:-1  tvg-id="eroluxe-cosplay" group-title="ТЕСТ", EroLuxe Cosplay
-http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/94251/hlsx/pl.m3u8
-
