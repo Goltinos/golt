@@ -196,6 +196,15 @@ http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/14215/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Dosug TV Fantastic HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/14210/index.m3u8
 
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Oasis Anime
+http://ru3.team.ga:80/ch2649/mono.m3u8?token=semen_imaster.lwINLI8XSHFaDiOaMNXnwXYS09LpBe3zMOzfo1wJPmRdTxvXxvF7Cwwc4haly69F
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Oasis Action
+http://ru3.team.ga:80/ch2510/mono.m3u8?token=semen_imaster.lwINLI8XSHFaDiOaMNXnwT58Vizfy8X4gWQfRF271QgyMO3fQdJ5SpaTuPGZYNI6
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Oasis Фантастика
+http://ru3.team.ga:80/ch2663/mono.m3u8?token=semen_imaster.lwINLI8XSHFaDiOaMNXnwaf57TGa23Uy-xmHrvNRjR3j2ARu5TfOC3C-jahBECv8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", VeleS Movie Hits
+http://ru3.team.ga:80/ch2598/mono.m3u8?token=semen_imaster.lwINLI8XSHFaDiOaMNXnwblceh8OIScev4zKXQBFLcFBzEH8_BmnnbzJ5N4wcmCU
+
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Daughter Swap
 http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/6191/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Family Swap
