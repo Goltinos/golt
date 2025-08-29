@@ -134,7 +134,7 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/13049/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", VF Счастливы Вместе
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/9242/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", VF Сверхъестественное
-http://1b227bf4.edmonst.net/iptv/4W93CEH26XT6N5GBA5HFY4KK/17003/index.m3u8
+https://tinyurl.com/aleks-u-romki-47/17003/index.m3u8
 
 #EXTINF:-1  tvg-id="bcu-action" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Action HD
 http://178.217.72.66:8080/BCUActionHD/index.m3u8
@@ -147,7 +147,7 @@ http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11038/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
 http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/11035/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-plus" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids+ HD
-http://1b227bf4.edmonst.net/iptv/4W93CEH26XT6N5GBA5HFY4KK/11036/index.m3u8
+http://as01.links-tv-channels.org/20834/index.m3u8?token=s9BUAESzaUk8qy
 #EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
 http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/17023/index.m3u8
 
@@ -161,8 +161,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/BCN3KU56BYMNMV/15092/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/FWU59KQYGEDDTB/15093/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1743/D9D274632B4F6F6/video.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
 http://de.online24.pm/play/1743/BC28182177585B5/video.m3u8
 
 #EXTINF:-1  tvg-id="yosso-rusfilm" tvg-logo="https://iptvx.one/picons/yosso-rusfilm.png" group-title="РУССКОЕ КИНО", Yosso TV Русские Фильмы
@@ -172,7 +170,7 @@ http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/14236/index.m3u8
 #EXTINF:-1  tvg-id="yosso-adventure" tvg-logo="https://iptvx.one/picons/yosso-adventure.png" group-title="КИНО И СЕРИАЛЫ", Yosso Adventure
 http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/15510/index.m3u8
 #EXTINF:-1  tvg-id="yosso-kids" tvg-logo="https://epg.iptvx.one/picons/yosso-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Yosso Kids
-http://1b227bf4.edmonst.net/iptv/4W93CEH26XT6N5GBA5HFY4KK/14173/index.m3u8
+http://b302ea1e.cbilant.com/iptv/NREYSTVAPVGPUZ/14173/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="РУССКОЕ КИНО", KLI Russian
 http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/18049/index.m3u8
@@ -197,14 +195,18 @@ http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/14215/index.m3u8
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/14210/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Oasis Anime
-http://ru3.team.ga:80/ch2649/mono.m3u8?token=semen_imaster.lwINLI8XSHFaDiOaMNXnwXYS09LpBe3zMOzfo1wJPmRdTxvXxvF7Cwwc4haly69F
+http://as01.links-tv-channels.org/20954/index.m3u8?token=s9BUAESzaUk8qy
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Oasis Action
-http://ru3.team.ga:80/ch2510/mono.m3u8?token=semen_imaster.lwINLI8XSHFaDiOaMNXnwT58Vizfy8X4gWQfRF271QgyMO3fQdJ5SpaTuPGZYNI6
+http://as01.links-tv-channels.org/20951/index.m3u8?token=s9BUAESzaUk8qy
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Oasis Фантастика
-http://ru3.team.ga:80/ch2663/mono.m3u8?token=semen_imaster.lwINLI8XSHFaDiOaMNXnwaf57TGa23Uy-xmHrvNRjR3j2ARu5TfOC3C-jahBECv8
+http://as01.links-tv-channels.org/20967/index.m3u8?token=s9BUAESzaUk8qy
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", VeleS Movie Hits
-http://ru3.team.ga:80/ch2598/mono.m3u8?token=semen_imaster.lwINLI8XSHFaDiOaMNXnwblceh8OIScev4zKXQBFLcFBzEH8_BmnnbzJ5N4wcmCU
+https://tinyurl.com/aleks-u-romki-47/31644/index.m3u8
 
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", My Pervy Family
+http://esfamous.top:8080/es281737569452002/2ce7729dcba0/32316
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PHub Channels My Family Pies
+http://esfamous.top:8080/es281737569452002/2ce7729dcba0/32398
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Daughter Swap
 http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/6191/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Family Swap
@@ -217,10 +219,12 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/12161/index.m3u8
 http://b302ea1e.cbilant.com/iptv/NREYSTVAPVGPUZ/11052/index.m3u8
 #EXTINF:-1  tvg-id="eroluxe-henati" group-title="ТЕСТ", EroLuxe Henati
 http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/94683/hlsx/pl.m3u8
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Play-x Хентай
+http://srvru.play-x.ru/channel/n2d594e39/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PHub-Cartoon
+http://esfamous.top:8080/es281737569452002/2ce7729dcba0/32339
 #EXTINF:-1  tvg-id="eroluxe-stepfamily" group-title="ТЕСТ", EroLuxe stepfamily
 http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/95947/hlsx/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-russian" group-title="ТЕСТ", EroLuxe Russian Teens
 http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/95728/hlsx/pl.m3u8
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Play-x Хентай
-http://srvru.play-x.ru/channel/n2d594e39/index.m3u8?q=577950063c2ab3f157549e419e16d765
 
