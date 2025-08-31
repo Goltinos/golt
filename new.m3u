@@ -38,7 +38,7 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_5TV.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_CHE.m3u8
 
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://epgx.site/p/domkino.png" group-title="РУССКОЕ КИНО", ДОМ КИНО
-http://31.210.208.171:8080/dom_kino/index.m3u8?token=+W2MSER
+http://178.217.72.66:8080/Dom_Kino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://epgx.site/p/domkino-premium.png" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
 http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://epgx.site/p/tv1000-russkoe-kino.png" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
@@ -47,7 +47,7 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B31/TV1000RusskoeKino/cnb0y9n3633wb3wnppr
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://epgx.site/p/mosfilm.png" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://178.217.72.66:8080/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" group-title="РУССКОЕ КИНО", НАШЕ НОВОЕ КИНО
-http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
+http://178.217.72.66:8080/Nashe_Novoe_Kino/index.m3u8
 
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -61,9 +61,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/200/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
 http://tqsxcvnh.ukminlt.fun/iptv/24VH6GTLGA8EH9T8QNRBUXVF/201/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
-http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
+http://178.217.72.66:8080/Kino_TV/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
-http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
+http://vipl.one/low/jhn8dmt2uaef/904.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ
 http://178.217.72.66:8080/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://i.ibb.co/1T8WsJp/kinosemya.png" group-title="КИНО И СЕРИАЛЫ", КИНОСЕМЬЯ HD
@@ -80,7 +80,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor"tvg-logo="https://i.postimg.cc/wMm8WXyb/e13c75da2663c549198b604af6526247.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://i.ibb.co/VgJcsj2/5d526f1f50b3c5bad276c99b3af2520a.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", САРАФАН
-http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
+http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://i.ibb.co/FqyWv9L/tht4.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ4
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -97,14 +97,14 @@ http://77.235.1.19:8000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11003/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
-http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
+http://178.217.72.66:8080/fan/index.m3u8
 
 #EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="МУЗЫКАЛЬНЫЕ", RU.TV
 http://%64m%693%79-%74%76.ru/hls/CH_RUTV.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-title="МУЗЫКАЛЬНЫЕ", BRIDGE TV РУССКИЙ ХИТ
 http://dmi3y-tv.ru/hls/CH_BRIDGETV_RUSSKIYHIT.m3u8
 #EXTINF:-1 tvg-id="0000" tvg-logo="https://bridgetv.ru/s/img/logo/nopadding/bridgetv_dance.svg" group-title="МУЗЫКАЛЬНЫЕ", BRIDGE TV HITS
-http://31.210.208.171:8080/bridge_hits/index.m3u8?token=+W2MSER
+http://178.212.71.253:8000/play/134/index.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://epgx.site/p/russian-musicbox.png" group-title="МУЗЫКАЛЬНЫЕ", Russian MusicBox
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/2048/index.m3u8
 
@@ -150,6 +150,9 @@ http://3ed6c8f3.ottrast.com/iptv/8VVWUVDVAG679L/11035/index.m3u8
 http://as01.links-tv-channels.org/20834/index.m3u8?token=s9BUAESzaUk8qy
 #EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
 http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/17023/index.m3u8
+
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", VeleS Movie Hits
+https://tinyurl.com/aleks-u-romki-47/31644/index.m3u8
 
 #EXTINF:-1  tvg-id="liberty-dreamworks" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дрим воркс FHD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31661/index.m3u8
@@ -200,8 +203,6 @@ http://as01.links-tv-channels.org/20954/index.m3u8?token=s9BUAESzaUk8qy
 http://as01.links-tv-channels.org/20951/index.m3u8?token=s9BUAESzaUk8qy
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Oasis Фантастика
 http://as01.links-tv-channels.org/20967/index.m3u8?token=s9BUAESzaUk8qy
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", VeleS Movie Hits
-https://tinyurl.com/aleks-u-romki-47/31644/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", My Pervy Family
 http://esfamous.top:8080/es281737569452002/2ce7729dcba0/32316
@@ -221,8 +222,6 @@ http://b302ea1e.cbilant.com/iptv/NREYSTVAPVGPUZ/11052/index.m3u8
 http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/94683/hlsx/pl.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Play-x Хентай
 http://srvru.play-x.ru/channel/n2d594e39/index.m3u8?q=577950063c2ab3f157549e419e16d765
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PHub-Cartoon
-http://esfamous.top:8080/es281737569452002/2ce7729dcba0/32339
 #EXTINF:-1  tvg-id="eroluxe-stepfamily" group-title="ТЕСТ", EroLuxe stepfamily
 http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/95947/hlsx/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-russian" group-title="ТЕСТ", EroLuxe Russian Teens
