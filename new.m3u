@@ -63,7 +63,7 @@ http://tqsxcvnh.ukminlt.fun/iptv/24VH6GTLGA8EH9T8QNRBUXVF/201/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
 http://178.217.72.66:8080/Kino_TV/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
-http://vipl.one/low/jhn8dmt2uaef/904.m3u8
+http://31.148.48.15:80/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://i.ibb.co/RgFZyYZ/kinokomediya.png" group-title="КИНО И СЕРИАЛЫ", КИНОКОМЕДИЯ
 http://178.217.72.66:8080/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://i.ibb.co/1T8WsJp/kinosemya.png" group-title="КИНО И СЕРИАЛЫ", КИНОСЕМЬЯ HD
@@ -165,6 +165,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/FWU59KQYGEDDTB/15093/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
 http://88.218.242.235:82/7195/index.m3u8?token=czuutgomtB
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
+http://tinyurl.com/%74%76%7A%61%74%61%6B30/1743/336F269AE47D41D/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", TVPlay Аниме HD
 http://88.218.242.235:82/9377/index.m3u8?token=czuutgomtB
 
@@ -224,5 +226,6 @@ http://srvru.play-x.ru/channel/n2d594e39/index.m3u8?q=577950063c2ab3f157549e419e
 http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/95947/hlsx/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-russian" group-title="ТЕСТ", EroLuxe Russian Teens
 http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/95728/hlsx/pl.m3u8
+
 
 
