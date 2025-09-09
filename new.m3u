@@ -163,8 +163,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/FWU59KQYGEDDTB/15093/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
 http://88.218.242.235:82/7195/index.m3u8?token=czuutgomtB
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B30/1743/336F269AE47D41D/video.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", TVPlay Аниме HD
 http://88.218.242.235:82/9377/index.m3u8?token=czuutgomtB
 
@@ -192,19 +190,22 @@ http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/16080/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", KLI Kids FHD
 http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/20047/index.m3u8
 
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Dosug Kids
-http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/14214/index.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Dosug TV Marvel HD
-http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/14215/index.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Dosug TV Fantastic HD
-http://b302ea1e.cbilant.com/iptv/NREYSTVAPVGPUZ/14210/index.m3u8
-
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Oasis Anime
-http://as01.links-tv-channels.org/20954/index.m3u8?token=s9BUAESzaUk8qy
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Oasis Action
-http://as01.links-tv-channels.org/20951/index.m3u8?token=s9BUAESzaUk8qy
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Oasis Фантастика
-http://as01.links-tv-channels.org/20967/index.m3u8?token=s9BUAESzaUk8qy
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Супергерои HD
+http://0e634d20.edmonst.net/iptv/YT9ZALWH8TP46YMEVEZ7NSMZ/13056/index.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Приключения HD
+http://aofeomiw.akciatv.ru/iptv/XPK9R2XG597QYW/13048/index.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Боевик HD
+http://0e634d20.edmonst.net/iptv/YT9ZALWH8TP46YMEVEZ7NSMZ/13028/index.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Боевик Classic HD
+http://aofeomiw.akciatv.ru/iptv/XPK9R2XG597QYW/13027/index.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Magic Action HD
+http://0e634d20.edmonst.net/iptv/YT9ZALWH8TP46YMEVEZ7NSMZ/18066/index.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Magic Adventure HD
+http://aofeomiw.akciatv.ru/iptv/XPK9R2XG597QYW/20141/index.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Magic Comedy HD
+http://0e634d20.edmonst.net/iptv/YT9ZALWH8TP46YMEVEZ7NSMZ/18063/index.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Magic Family HD
+http://aofeomiw.akciatv.ru/iptv/XPK9R2XG597QYW/18170/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Daughter Swap
 http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/6191/index.m3u8
@@ -224,8 +225,12 @@ http://srvru.play-x.ru/channel/n2d594e39/index.m3u8?q=577950063c2ab3f157549e419e
 http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/95947/hlsx/pl.m3u8
 #EXTINF:-1  tvg-id="eroluxe-russian" group-title="ТЕСТ", EroLuxe Russian Teens
 http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/95728/hlsx/pl.m3u8
-
-
-
-
-
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX: BlueTV Family HD
+http://azertvpro.com:2095/ll1038/ll00/148661
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX: BlueTV Fake Hospital HD
+http://azertvpro.com:2095/ll1038/ll00/9142
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX: NovaTV Moms Teach  HD
+http://azertvpro.com:2095/ll1038/ll00/26907
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX: Hentai Anime
+http://azertvpro.com:2095/ll1038/ll00/98147
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Daughter Swap
