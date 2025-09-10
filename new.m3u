@@ -153,8 +153,6 @@ http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/17023/index.m3u8
 https://tinyurl.com/aleks-u-romki-47/31644/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", VeleS Movie Hits
 http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31644/index.m3u8
-#EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", VeleS Kids
-https://as01.links-tv-channels.org/21013/index.m3u8?token=pQVqFWfmyKQwsS
 
 #EXTINF:-1  tvg-id="liberty-dreamworks" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дрим воркс FHD
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/31661/index.m3u8
@@ -196,14 +194,6 @@ http://0e634d20.edmonst.net/iptv/YT9ZALWH8TP46YMEVEZ7NSMZ/18063/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Magic Family HD
 http://aofeomiw.akciatv.ru/iptv/XPK9R2XG597QY/18170/index.m3u8
 
-#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", Oasis Action HD
-https://as01.links-tv-channels.org/20951/index.m3u8?token=pQVqFWfmyKQwsS
-#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", Oasis Comedy HD
-https://as01.links-tv-channels.org/20958/index.m3u8?token=pQVqFWfmyKQwsS
-#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", Oasis Family HD
-https://as01.links-tv-channels.org/20966/index.m3u8?token=pQVqFWfmyKQwsS
-#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", Oasis Фантастика HD
-https://as01.links-tv-channels.org/20967/index.m3u8?token=pQVqFWfmyKQwsS
 #EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Oasis Anime HD
 https://as01.links-tv-channels.org/20954/index.m3u8?token=pQVqFWfmyKQwsS
 
@@ -226,4 +216,5 @@ http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/95947/hlsx/pl.m3u8
 http://azertvpro.com:2095/ll1038/ll00/148661
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX: NovaTV Moms Teach  HD
 http://azertvpro.com:2095/ll1038/ll00/26907
+
 
