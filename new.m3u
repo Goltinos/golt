@@ -40,9 +40,9 @@ http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_CHE.m3u8
 #EXTINF:-1 tvg-id="domkino" group-title="РУССКОЕ КИНО", ДОМ КИНО
 http://46.8.46.14/domkino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
-http://146.59.93.251/10126/index.m3u8?token=031BBBFDB6EA&21yo=0
+http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+http://tinyurl.com/%74%76%7A%61%74%61%6B36/a014
 #EXTINF:-1 tvg-id="mosfilm" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://178.212.71.253:8000/play/124/index.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="РУССКОЕ КИНО", НАШЕ НОВОЕ КИНО
@@ -198,4 +198,5 @@ http://rr3.tvdosug.net/~201071fbe49101e2119e411480197a8dae5/95947/hlsx/pl.m3u8
 http://azertvpro.com:2095/ll1038/ll00/148661
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX: NovaTV Moms Teach  HD
 http://azertvpro.com:2095/ll1038/ll00/26907
+
 
