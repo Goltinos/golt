@@ -143,8 +143,12 @@ http://f53c3733.akadatel.com/iptv/SDDSYKBN5TLVU9/17023/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", VeleS Movie Hits
 https://tinyurl.com/aleks-u-romki-47/31644/index.m3u8
-#EXTINF:-1  tvg-id="liberty-mult" group-title="МУЛЬТФИЛЬМ И АНИМЕ", VeleS Kids
+#EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", VeleS Kids
 http://d07c810e.amazzin.pw/iptv/3Q9MUVN8NKQTS7/31646/index.m3u8
+#EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", VeleS Аниме
+http://8.team.ga:80/ch2612/mono.m3u8?token=rl_7268563.i9d8QHtAaMcXuV-SMHXz2hHKaxZZe6fllfMhskqaH8yQhv5P5pylll9lzMecGjMn
+#EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ",  Oasis Anime
+http://8.team.ga:80/ch2649/mono.m3u8?token=rl_7268563.i9d8QHtAaMcXuV-SMHXz2oro4eP9UuvYyUiU8iPulnPk0-NiPeGdIsgrGCzg-W4O
 
 #EXTINF:-1  tvg-id="liberty-dreamworks" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дрим воркс FHD
 http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/31661/index.m3u8
@@ -206,3 +210,4 @@ http://azertvpro.com:2095/ll1038/ll00/26907
 http://88.218.242.235:82/10197/index.m3u8?token=czuutgomtB
 #EXTINF:-1  tvg-id="eroluxe-henati" group-title="ТЕСТ", TVPlay World XXX
 http://88.218.242.235:82/10198/index.m3u8?token=czuutgomtB
+
