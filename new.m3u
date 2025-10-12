@@ -53,11 +53,11 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000
 http://46.8.46.14/tv1000/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
-http://194.32.242.245/tv1000action/index.m3u8
+http://46.8.46.14/actiontv/index.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
-http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/200/index.m3u8
+http://46.8.46.14/vipcomedy/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
-http://tqsxcvnh.ukminlt.fun/iptv/24VH6GTLGA8EH9T8QNRBUXVF/201/index.m3u8
+http://46.8.46.14/vipmegahit/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
@@ -72,7 +72,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor"tvg-logo="https://i.postimg.cc/wMm8WXyb/e13c75da2663c549198b604af6526247.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://i.ibb.co/VgJcsj2/5d526f1f50b3c5bad276c99b3af2520a.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", САРАФАН
-http://93.125.121.61:8383/play/exp80k606
+http://178.212.71.253:8000/play/44/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://i.ibb.co/FqyWv9L/tht4.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ4
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -89,12 +89,12 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B35/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11003/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
-http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/734/index.m3u8
+http://46.8.46.14/FAN/index.m3u8
 
 #EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="МУЗЫКАЛЬНЫЕ", RU.TV
 http://%64m%693%79-%74%76.ru/hls/CH_RUTV.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-title="МУЗЫКАЛЬНЫЕ", BRIDGE TV РУССКИЙ ХИТ
-http://rhsbjv7k.tvclub.xyz/iptv/FWU59KQYGEDDTB/120/index.m3u8
+http://91.194.191.241:8081/chid468/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="0000" tvg-logo="https://bridgetv.ru/s/img/logo/nopadding/bridgetv_dance.svg" group-title="МУЗЫКАЛЬНЫЕ", BRIDGE TV HITS
 http://178.212.71.253:8000/play/134/index.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://epgx.site/p/russian-musicbox.png" group-title="МУЗЫКАЛЬНЫЕ", Russian MusicBox
@@ -117,27 +117,27 @@ https://tinyurl.com/aleks-u-romki-47/19299/index.m3u8
 http://b302ea1e.cbilant.com/iptv/NREYSTVAPVGPUZ/11005/index.m3u8
 #EXTINF:-1  tvg-id="cineman-action" tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" group-title="КИНО И СЕРИАЛЫ", CineMan Action
 http://rhsbjv7k.tvclub.xyz/iptv/7UAMY296LQ3XR7/11006/index.m3u8
-#EXTINF:-1  tvg-id="cineman-pes" tvg-logo="https://epg.iptvx.one/picons/cineman-pes.png" group-title="РУССКОЕ КИНО", CineMan Пёс
-http://jpqmdtum.megogo.xyz/iptv/83HUZRHVU7LZA2/16064/index.m3u8
+#EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", MM Полицейский с Рублёвки HD
 http://b302ea1e.cbilant.com/iptv/NREYSTVAPVGPUZ/13049/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", VF Счастливы Вместе
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/9242/index.m3u8
-#EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", VF Сверхъестественное
-https://tinyurl.com/aleks-u-romki-47/17003/index.m3u8
 
 #EXTINF:-1  tvg-id="bcu-action" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Action HD
-http://b302ea1e.cbilant.com/iptv/NREYSTVAPVGPUZ/11027/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4eLzH741Ep10bM9e3rrOlE/m3u8
+#EXTINF:-1  tvg-id="bcu-cinema" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Cinema HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4I4rb8HB6HRT1m2r704nAw/m3u8
 #EXTINF:-1  tvg-id="bcu-russian" tvg-logo="https://iptvx.one/picons/bcu-russian.png" group-title="РУССКОЕ КИНО", BCU Russian HD
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11041/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6i6bewaKtNcxXjUkKEU31I/m3u8
 #EXTINF:-1  tvg-id="bcu-fantastic" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" group-title="КИНО И СЕРИАЛЫ", BCU Fantastic HD
-http://aofeomiw.akciatv.ru/iptv/XPK9R2XG597QYW/11032/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9yDIvAPIZngXrZU-0F_-8U/m3u8
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11038/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvzZezz2CrQYl8Z_Xa37sO8k/m3u8
 #EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
-http://b302ea1e.cbilant.com/iptv/NREYSTVAPVGPUZ/11035/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwKeLvglHIE9szxGKxKsPkM/m3u8
 #EXTINF:-1  tvg-id="bcu-kids-plus" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids+ HD
-http://ocayhrqe.megatv.fun/iptv/U34E9K252QKQZ5/11036/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5vdPZncqE0CWdh9OPaENog/m3u8
 #EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/17023/index.m3u8
 
