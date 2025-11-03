@@ -121,7 +121,7 @@ http://178.217.72.72/CineMan_Top/index.m3u8
 #EXTINF:-1  tvg-id="cineman-action" tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" group-title="КИНО И СЕРИАЛЫ", CineMan Action
 http://178.217.72.72/CineMan_Action/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", Пёс
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", VF Счастливы Вместе
 https://tinyurl.com/aleks-u-romki-47/9242/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", VB Спецназ-Диверсант HD
@@ -214,3 +214,4 @@ http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215678
 http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215703
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Spy Fam
 http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215756
+
