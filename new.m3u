@@ -134,7 +134,7 @@ http://e5867844.akadatel.com/iptv/5NT8EBN39C38NTGGNXV6KH9T/11029/index.m3u8
 #EXTINF:-1  tvg-id="bcu-russian" tvg-logo="https://iptvx.one/picons/bcu-russian.png" group-title="РУССКОЕ КИНО", BCU Russian HD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11041/index.m3u8
 #EXTINF:-1  tvg-id="bcu-fantastic" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" group-title="КИНО И СЕРИАЛЫ", BCU Fantastic HD
-http://aofeomiw.akciatv.ru/iptv/XPK9R2XG597QYW/11032/index.m3u8
+http://e5867844.akadatel.com/iptv/5NT8EBN39C38NTGGNXV6KH9T/11032/index.m3u8
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11038/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
@@ -178,15 +178,15 @@ http://b302ea1e.cbilant.com/iptv/NREYSTVAPVGPUZ/14173/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Супергерои HD
 http://0e634d20.edmonst.net/iptv/YT9ZALWH8TP46YMEVEZ7NSMZ/13056/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Приключения HD
-http://aofeomiw.akciatv.ru/iptv/XPK9R2XG597QYW/13048/index.m3u8
+http://0e634d20.edmonst.net/iptv/YT9ZALWH8TP46YMEVEZ7NSMZ/13048/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Боевик HD
 http://0e634d20.edmonst.net/iptv/YT9ZALWH8TP46YMEVEZ7NSMZ/13028/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Боевик Classic HD
-http://aofeomiw.akciatv.ru/iptv/XPK9R2XG597QYW/13027/index.m3u8
+http://0e634d20.edmonst.net/iptv/YT9ZALWH8TP46YMEVEZ7NSMZ/13027/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Magic Action HD
 http://0e634d20.edmonst.net/iptv/YT9ZALWH8TP46YMEVEZ7NSMZ/18066/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Magic Adventure HD
-http://aofeomiw.akciatv.ru/iptv/XPK9R2XG597QYW/20141/index.m3u8
+http://0e634d20.edmonst.net/iptv/YT9ZALWH8TP46YMEVEZ7NSMZ/20141/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Magic Comedy HD
 http://0e634d20.edmonst.net/iptv/YT9ZALWH8TP46YMEVEZ7NSMZ/18063/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Magic Family HD
@@ -214,4 +214,3 @@ http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215678
 http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215703
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Spy Fam
 http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215756
-
