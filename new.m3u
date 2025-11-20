@@ -88,9 +88,6 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B35/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11003/index.m3u8
-#EXTINF:-1 tvg-id="2na2" group-title="МУЛЬТФИЛЬМ И АНИМЕ", 2x2
-#EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://46.8.46.14/FAN/index.m3u8
 
@@ -117,15 +114,13 @@ http://e5867844.akadatel.com/iptv/5NT8EBN39C38NTGGNXV6KH9T/19288/index.m3u8
 https://tinyurl.com/aleks-u-romki-47/19299/index.m3u8
 
 #EXTINF:-1  tvg-id="cineman-top" tvg-logo="https://epg.iptvx.one/picons/cineman-top.png" group-title="КИНО И СЕРИАЛЫ", CineMan Top
-http://178.217.72.72/CineMan_Top/index.m3u8
+http://50.7.28.226/8959/index.m3u8
 #EXTINF:-1  tvg-id="cineman-action" tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" group-title="КИНО И СЕРИАЛЫ", CineMan Action
-http://178.217.72.72/CineMan_Action/index.m3u8
+http://de.seetv.cc/play/13002/E6BA13F31F4D78F/video.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", VF Счастливы Вместе
 https://tinyurl.com/aleks-u-romki-47/9242/index.m3u8
-#EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", VB Спецназ-Диверсант HD
-http://e5867844.akadatel.com/iptv/5NT8EBN39C38NTGGNXV6KH9T/20176/index.m3u8
 
 #EXTINF:-1  tvg-id="bcu-action" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Action HD
 http://de.seetv.cc/play/7100/E6BA13F31F4D78F/video.m3u8
