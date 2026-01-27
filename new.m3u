@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 url-tvg="https://iptvx.one/EPG_LITE/epg_lite.xml.gz" tvg-shift=0 cache=200
+#EXTM3U deinterlace=1 url-tvg="https://iptvx.one/EPG_LITE/epg_lite.xml.gz" tvg-shift=0 cache=500
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="РОССИЯ SD", ПЕРВЫЙ
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
@@ -38,9 +38,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="РУССКОЕ КИНО", ДОМ КИНО
-http://cdn.voka.tv/live/5105-req_5k_v5.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B37/Dom_Kino_tv/manifest.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
-http://cdn.voka.tv/live/5111-req_5k_v5.m3u8
+http://84.54.128.52:9090/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 tvg-id="mosfilm" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
@@ -89,7 +89,7 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B35/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11003/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
-http://31.148.48.15/Fan/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/16021/index.m3u8
 
 #EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="МУЗЫКАЛЬНЫЕ", RU.TV
 http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/838/index.m3u8
