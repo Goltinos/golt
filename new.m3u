@@ -38,7 +38,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="РУССКОЕ КИНО", ДОМ КИНО
-http://tinyurl.com/%74%76%7A%61%74%61%6B37/Dom_Kino_tv/manifest.m3u8
+http://88.135.128.20:8090/domkino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
 http://84.54.128.52:9090/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
@@ -61,9 +61,9 @@ http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
-http://31.148.48.15:80/Kinopokaz/index.m3u8
+http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/733/index.m3u8
 
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.ibb.co/sVJRrqm/KVN-TV-b.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", КВН ТВ
 http://31.148.48.15/KVN_TV/index.m3u8
@@ -100,7 +100,7 @@ http://31.148.48.15:80/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://epgx.site/p/russian-musicbox.png" group-title="МУЗЫКАЛЬНЫЕ", Russian MusicBox
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/2048/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="МУЗЫКАЛЬНЫЕ", VB Русская Попса 80х-90х
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/14155/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/14155/index.m3u8
 
 #EXTINF:-1  tvg-id="fresh-rating" tvg-logo="https://epg.iptvx.one/picons/fresh-rating.png" group-title="КИНО И СЕРИАЛЫ", Fresh Rating
 https://tinyurl.com/aleks-u-romki-47/19292/index.m3u8
@@ -127,7 +127,7 @@ https://tinyurl.com/aleks-u-romki-40/11032/index.m3u8
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11038/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/11035/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11035/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-plus" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids+ HD
 https://tinyurl.com/aleks-u-romki-40/11036/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
@@ -146,11 +146,11 @@ https://tinyurl.com/aleks-u-romki-47/31644/index.m3u8
 http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/31646/index.m3u8
 
 #EXTINF:-1  tvg-id="liberty-dreamworks" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дрим воркс FHD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/31661/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/31661/index.m3u8
 #EXTINF:-1  tvg-id="liberty-mult" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Мульт FHD
 https://tinyurl.com/aleks-u-romki-47/18051/index.m3u8
 #EXTINF:-1  tvg-id="liberty-pixar" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Пиксар FHD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/15092/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/15092/index.m3u8
 #EXTINF:-1  tvg-id="liberty-disney" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дисней FHD
 http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/15093/index.m3u8
 
@@ -193,4 +193,3 @@ http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215674
 http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215678
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Perv Mom
 http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215703
-
