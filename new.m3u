@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 url-tvg="https://doas.top/epg_lite.xml.gz" tvg-shift=0 cache=500
+#EXTM3U deinterlace=1 url-tvg="https://doas.top/epg_lite.xml.gz" tvg-shift=0 cache=1000
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="РОССИЯ SD", ПЕРВЫЙ
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
@@ -175,21 +175,33 @@ https://tinyurl.com/aleks-u-romki-40/13028/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Боевик Classic HD
 https://tinyurl.com/aleks-u-romki-40/13027/index.m3u8
 
-#EXTINF:-1  tvg-id="eroluxe-henati" group-title="ТЕСТ", EroLuxe Henati
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", EroLuxe Henati
 http://u.vipl.one/high/47eurvkpm6/1693.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", EroLuxe Step Family
 http://u.vipl.one/high/47eurvkpm6/1703.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Bratty Sis
 https://tinyurl.com/aleks-u-romki-47/12161/index.m3u8
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Hentai
-http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215574
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Bratty Sis
 http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215494
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Mom Wants Creampie
-http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215672
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Moms Teach Sex
-http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215674
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | My Pervy Family
 http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215678
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Perv Mom
-http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215703
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PORNBOX: BANG BROS NETWORK
+http://cord-cutter.net:8080/Rw83jK/946540/159960
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PORNBOX: BRATTY SIS
+http://cord-cutter.net:8080/Rw83jK/946540/159965
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PORNBOX: KINKY FAMILY
+http://cord-cutter.net:8080/Rw83jK/946540/159998
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PORNBOX: MY FAMILY PIES
+http://cord-cutter.net:8080/Rw83jK/946540/160018
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PORNBOX: MY PERVY FAMILY
+http://cord-cutter.net:8080/Rw83jK/946540/160020
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PORNBOX: MY TINY WISH
+http://cord-cutter.net:8080/Rw83jK/946540/160021
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", VERIFIED AMATEURS: MIKANIKA69
+http://cord-cutter.net:8080/Rw83jK/946540/160084
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Bratty Milf
+http://cord-cutter.net:8080/Rw83jK/946540/215493
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Crystal Rush
+http://cord-cutter.net:8080/Rw83jK/946540/215515
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Natasha Nice
+http://cord-cutter.net:8080/Rw83jK/946540/215683
