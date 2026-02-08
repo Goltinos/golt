@@ -1,4 +1,5 @@
 #EXTM3U deinterlace=1 url-tvg="https://doas.top/epg_lite.xml.gz" tvg-shift=0 cache=1000
+#EXTVLCOPT:http-user-agent=http User-Agent
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="РОССИЯ SD", ПЕРВЫЙ
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
@@ -57,7 +58,7 @@ http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
-http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/201/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
@@ -174,6 +175,13 @@ https://tinyurl.com/aleks-u-romki-40/13048/index.m3u8
 https://tinyurl.com/aleks-u-romki-40/13028/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Боевик Classic HD
 https://tinyurl.com/aleks-u-romki-40/13027/index.m3u8
+
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", City Eden KinoAction
+http://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", City Eden KinoKomediya
+http://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", City Eden KinoMistika
+http://cityeden.catcast.tv/content/40783/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", EroLuxe Henati
 http://u.vipl.one/high/47eurvkpm6/1693.m3u8
