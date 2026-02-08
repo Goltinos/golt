@@ -67,7 +67,7 @@ http://176.118.197.101/Kinopokaz/index.m3u8
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/733/index.m3u8
 
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.ibb.co/sVJRrqm/KVN-TV-b.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", КВН ТВ
-http://31.148.48.15/KVN_TV/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://i.ibb.co/qyF0n0J/Tvoyo-TV-220x220.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor"tvg-logo="https://i.postimg.cc/wMm8WXyb/e13c75da2663c549198b604af6526247.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD - ЮМОР
@@ -213,3 +213,4 @@ http://cord-cutter.net:8080/Rw83jK/946540/215493
 http://cord-cutter.net:8080/Rw83jK/946540/215515
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Natasha Nice
 http://cord-cutter.net:8080/Rw83jK/946540/215683
+
