@@ -1,5 +1,4 @@
 #EXTM3U deinterlace=1 url-tvg="https://doas.top/epg_lite.xml.gz" tvg-shift=0 cache=1000
-#EXTVLCOPT:http-user-agent=http User-Agent
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="РОССИЯ SD", ПЕРВЫЙ
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
@@ -106,12 +105,11 @@ http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/14155/index.m3u8
 #EXTINF:-1  tvg-id="fresh-rating" tvg-logo="https://epg.iptvx.one/picons/fresh-rating.png" group-title="КИНО И СЕРИАЛЫ", Fresh Rating
 https://tinyurl.com/aleks-u-romki-47/19292/index.m3u8
 #EXTINF:-1  tvg-id="fresh-kids" tvg-logo="https://epg.iptvx.one/picons/fresh-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Fresh Kids
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/19288/index.m3u8
-
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/19288/index.m3u8
 #EXTINF:-1  tvg-id="cineman-top" tvg-logo="https://epg.iptvx.one/picons/cineman-top.png" group-title="КИНО И СЕРИАЛЫ", CineMan Top
 https://tinyurl.com/aleks-u-romki-47/11005/index.m3u8
 #EXTINF:-1  tvg-id="cineman-action" tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" group-title="КИНО И СЕРИАЛЫ", CineMan Action
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/11006/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11006/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", VF Счастливы Вместе
@@ -122,7 +120,7 @@ https://tinyurl.com/aleks-u-romki-47/11027/index.m3u8
 #EXTINF:-1  tvg-id="bcu-cinema" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Cinema HD
 https://tinyurl.com/aleks-u-romki-40/11029/index.m3u8
 #EXTINF:-1  tvg-id="bcu-russian" tvg-logo="https://iptvx.one/picons/bcu-russian.png" group-title="РУССКОЕ КИНО", BCU Russian HD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/11041/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11041/index.m3u8
 #EXTINF:-1  tvg-id="bcu-fantastic" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" group-title="КИНО И СЕРИАЛЫ", BCU Fantastic HD
 https://tinyurl.com/aleks-u-romki-40/11032/index.m3u8
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
@@ -132,7 +130,7 @@ http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11035/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-plus" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids+ HD
 https://tinyurl.com/aleks-u-romki-40/11036/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/17023/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/17023/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", IPTVPLAY ФАНТАСТИКА
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -144,7 +142,7 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", VeleS Movie Hits
 https://tinyurl.com/aleks-u-romki-47/31644/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", VeleS Kids
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/31646/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/31646/index.m3u8
 
 #EXTINF:-1  tvg-id="liberty-dreamworks" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дрим воркс FHD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/31661/index.m3u8
@@ -153,10 +151,7 @@ https://tinyurl.com/aleks-u-romki-47/18051/index.m3u8
 #EXTINF:-1  tvg-id="liberty-pixar" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Пиксар FHD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/15092/index.m3u8
 #EXTINF:-1  tvg-id="liberty-disney" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дисней FHD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/15093/index.m3u8
-
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CPS Anime HD
-http://gr.seetv.cc/play/1743/D70CC021CA87DF2/video.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/15093/index.m3u8
 
 #EXTINF:-1  tvg-id="yosso-rusfilm" tvg-logo="https://iptvx.one/picons/yosso-rusfilm.png" group-title="РУССКОЕ КИНО", Yosso TV Русские Фильмы
 https://tinyurl.com/aleks-u-romki-40/14174/index.m3u8
@@ -175,13 +170,6 @@ https://tinyurl.com/aleks-u-romki-40/13048/index.m3u8
 https://tinyurl.com/aleks-u-romki-40/13028/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Боевик Classic HD
 https://tinyurl.com/aleks-u-romki-40/13027/index.m3u8
-
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", City Eden KinoAction
-http://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", City Eden KinoKomediya
-http://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", City Eden KinoMistika
-http://cityeden.catcast.tv/content/40783/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", EroLuxe Henati
 http://u.vipl.one/high/47eurvkpm6/1693.m3u8
@@ -213,4 +201,3 @@ http://cord-cutter.net:8080/Rw83jK/946540/215493
 http://cord-cutter.net:8080/Rw83jK/946540/215515
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Natasha Nice
 http://cord-cutter.net:8080/Rw83jK/946540/215683
-
