@@ -40,7 +40,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="domkino" group-title="РУССКОЕ КИНО", ДОМ КИНО
 http://tv.lamro.workers.dev/?ID=3188
 #EXTINF:-1 tvg-id="domkino-premium" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
-http://tv.lamro.workers.dev/?ID=4964
+http://109.75.59.241:8017/Domkino/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 tvg-id="mosfilm" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
@@ -191,3 +191,4 @@ http://cord-cutter.net:8080/Rw83jK/946540/159998
 http://cord-cutter.net:8080/Rw83jK/946540/160018
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PORNBOX: MY PERVY FAMILY
 http://cord-cutter.net:8080/Rw83jK/946540/160020
+
