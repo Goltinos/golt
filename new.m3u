@@ -40,13 +40,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="domkino" group-title="РУССКОЕ КИНО", ДОМ КИНО
 http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
-http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
+https://telluri.ru/video/5111.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 tvg-id="mosfilm" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 https://telluri.ru/video/1124.m3u8
-#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="РУССКОЕ КИНО", НАШЕ НОВОЕ КИНО
-http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -55,7 +53,7 @@ http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
-http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/200/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/201/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
@@ -82,25 +80,14 @@ http://31.148.48.15:80/Russkiy_illusion/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://only4.tv/ch/424.png" group-title="МЕЛОДРАМА", РУССКИЙ РОМАН
 http://185.46.16.239:8000/Russkiy_roman
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
-http://tinyurl.com/%74%76%7A%61%74%61%6B35/RusskiyBesteler/tracks-v1a1/mono.m3u8
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://epg.iptvx.one/picons/russky-detektiv.png" group-title="МЕЛОДРАМА", РУССКИЙ ДЕТЕКТИВ
-http://tinyurl.com/%74%76%7A%61%74%61%6B35/RusskiyDetektiv/tracks-v1a1/mono.m3u8
+http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11003/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/16021/index.m3u8
-
-#EXTINF:-1  tvg-id="ru-tv" tvg-logo="https://epgx.site/p/ru-tv.png" group-title="МУЗЫКАЛЬНЫЕ", RU.TV
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/838/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-title="МУЗЫКАЛЬНЫЕ", BRIDGE TV РУССКИЙ ХИТ
-https://tinyurl.com/aleks-u-romki-40/19226/index.m3u8
-#EXTINF:-1 tvg-id="0000" tvg-logo="https://bridgetv.ru/s/img/logo/nopadding/bridgetv_dance.svg" group-title="МУЗЫКАЛЬНЫЕ", BRIDGE TV HITS
-http://31.148.48.15:80/Bridge_TV_Dance/index.m3u8
-#EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://epgx.site/p/russian-musicbox.png" group-title="МУЗЫКАЛЬНЫЕ", Russian MusicBox
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/2048/index.m3u8
-#EXTINF:-1  tvg-id="0000" group-title="МУЗЫКАЛЬНЫЕ", VB Русская Попса 80х-90х
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/14155/index.m3u8
 
 #EXTINF:-1  tvg-id="fresh-rating" tvg-logo="https://epg.iptvx.one/picons/fresh-rating.png" group-title="КИНО И СЕРИАЛЫ", Fresh Rating
 https://tinyurl.com/aleks-u-romki-47/19292/index.m3u8
@@ -112,8 +99,6 @@ https://tinyurl.com/aleks-u-romki-47/11005/index.m3u8
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11006/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", VF Счастливы Вместе
-https://tinyurl.com/aleks-u-romki-47/9242/index.m3u8
 
 #EXTINF:-1  tvg-id="bcu-action" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Action HD
 https://tinyurl.com/aleks-u-romki-47/11027/index.m3u8
