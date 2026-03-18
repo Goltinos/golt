@@ -70,7 +70,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor"tvg-logo="https://i.postimg.cc/wMm8WXyb/e13c75da2663c549198b604af6526247.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://i.ibb.co/VgJcsj2/5d526f1f50b3c5bad276c99b3af2520a.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", САРАФАН
-http://176.118.197.125/Sarafan/index.m3u8
+http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://i.ibb.co/FqyWv9L/tht4.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ4
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -87,7 +87,7 @@ http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11003/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/16021/index.m3u8
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 
 #EXTINF:-1  tvg-id="fresh-rating" tvg-logo="https://epg.iptvx.one/picons/fresh-rating.png" group-title="КИНО И СЕРИАЛЫ", Fresh Rating
 https://tinyurl.com/aleks-u-romki-47/19292/index.m3u8
