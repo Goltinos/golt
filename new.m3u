@@ -38,13 +38,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="РУССКОЕ КИНО", ДОМ КИНО
-http://176.96.241.40/DomKino/index.m3u8
+http://31.210.208.171:8080/dom_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="domkino-premium" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
-https://telluri.ru/video/5111.m3u8
+http://91.226.120.120/chid294/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 tvg-id="mosfilm" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
-https://telluri.ru/video/1124.m3u8
+http://31.210.208.171:8080/mosfilm/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -166,13 +166,3 @@ https://tinyurl.com/aleks-u-romki-47/12161/index.m3u8
 http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215494
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | My Pervy Family
 http://fortv.cc:8080/herefordlinda@yahoo.com/herefordlinda@2023/215678
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", X4 | Bratty Milf
-http://cord-cutter.net:8080/Rw83jK/946540/215493
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PORNBOX: BRATTY SIS
-http://cord-cutter.net:8080/Rw83jK/946540/159965
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PORNBOX: KINKY FAMILY
-http://cord-cutter.net:8080/Rw83jK/946540/159998
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PORNBOX: MY FAMILY PIES
-http://cord-cutter.net:8080/Rw83jK/946540/160018
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", PORNBOX: MY PERVY FAMILY
-http://cord-cutter.net:8080/Rw83jK/946540/160020
