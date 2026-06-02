@@ -40,7 +40,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="domkino" group-title="РУССКОЕ КИНО", ДОМ КИНО
 http://cdn.kubteltv.workers.dev/?ID=131
 #EXTINF:-1 tvg-id="domkino-premium" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
-https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
+https://kino.zunotv.workers.dev/dom_kino_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
 https://kino.zunotv.workers.dev/viju_tv1000_russkoe_hd/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
