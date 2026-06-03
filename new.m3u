@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 url-tvg="https://doas.top/epg_lite.xml.gz" tvg-shift=0 cache=1500
+#EXTM3U deinterlace=1 url-tvg="https://doas.top/epg_lite.xml.gz" tvg-shift=0 cache=1000
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="РОССИЯ SD", ПЕРВЫЙ
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
@@ -127,10 +127,10 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", VeleS Movie Hits
 https://tinyurl.com/aleks-u-romki-47/31644/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", VeleS Kids
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/31646/index.m3u8
+http://stream.skaz.tv/stream/ch2600/0ab8f2d4/mono.m3u8
 
 #EXTINF:-1  tvg-id="liberty-dreamworks" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дрим воркс FHD
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/31661/index.m3u8
+http://cdntv.online/high/ierw63qgf1/2053.m3u8
 #EXTINF:-1  tvg-id="liberty-mult" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Мульт FHD
 https://tinyurl.com/aleks-u-romki-47/18051/index.m3u8
 #EXTINF:-1  tvg-id="liberty-pixar" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Пиксар FHD
