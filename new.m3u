@@ -38,20 +38,20 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="РУССКОЕ КИНО", ДОМ КИНО
-http://37.186.70.39:40/play/76/index.m3u8
+https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="РУССКОЕ КИНО", ДОМ КИНО ПРЕМИУМ (HD)
-http://37.186.70.39:40/play/77/index.m3u8
+http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="РУССКОЕ КИНО", TV1000 РУССКОЕ КИНО
-http://109.70.186.82:9090/udp/239.185.1.2:1234
+https://stream8.cinerama.uz/1059/mono.m3u8
 #EXTINF:-1 tvg-id="mosfilm" group-title="РУССКОЕ КИНО", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
-http://178.134.1.158:8081/mosfilm/index.m3u8
+http://stream.mcquack.net/369/index.m3u8
 
 #EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://epgx.site/p/cinema.png" group-title="КИНО И СЕРИАЛЫ", CINEMA
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://epgx.site/p/tv1000.png" group-title="КИНО И СЕРИАЛЫ", TV1000
-http://109.70.186.82:9090/udp/239.185.1.4:1234
+http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://epgx.site/p/tv1000-action.png" group-title="КИНО И СЕРИАЛЫ", TV1000 ACTION
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 vg-id="vip-comedy" tvg-logo="https://epgx.site/p/vip-comedy.png" group-title="КИНО И СЕРИАЛЫ", VIP COMEDY
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/200/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
@@ -70,42 +70,26 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor"tvg-logo="https://i.postimg.cc/wMm8WXyb/e13c75da2663c549198b604af6526247.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://i.ibb.co/VgJcsj2/5d526f1f50b3c5bad276c99b3af2520a.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", САРАФАН
-http://31.148.48.15:80/Sarafan/index.m3u8
+http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://i.ibb.co/FqyWv9L/tht4.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ4
 #EXTVLCOPT:http-user-agent=LimeHDTV/5.0.0 (com.infolink.LimeHDTV; build:1; iOS 16.2.0) Alamofire/5.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
-#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://s3.spbtv.com/rosing-production/80d3d63b673986b5093f_250x250c.png" group-title="МЕЛОДРАМА", РУССКИЙ ИЛЛЮЗИОН
-http://37.186.70.39:40/play/87/index.m3u8
-#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://i.ibb.co/55M1YHK/193.jpg" group-title="МЕЛОДРАМА", РУССКИЙ БЕСТСЕЛЛЕР
-http://213.141.224.226:4022/udp/238.1.1.164:1234
-#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://epg.iptvx.one/picons/russky-detektiv.png" group-title="МЕЛОДРАМА", РУССКИЙ ДЕТЕКТИВ
-http://213.141.224.226:4022/udp/238.1.1.171:1234
-#EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://only4.tv/ch/424.png" group-title="МЕЛОДРАМА", РУССКИЙ РОМАН
-http://213.141.224.226:4022/udp/238.1.1.172:1234
-
 #EXTINF:-1 tvg-id="cartoons-big" tvg-logo="https://epgx.site/p/cartoons-big.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", CINEMAN CARTOONS BIG
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11003/index.m3u8
-#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://epgx.site/p/fanhd.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", FAN
-http://91.204.123.202:80/420/index.m3u8
-
-#EXTINF:-1  tvg-id="fresh-rating" tvg-logo="https://epg.iptvx.one/picons/fresh-rating.png" group-title="КИНО И СЕРИАЛЫ", Fresh Rating
-https://tinyurl.com/aleks-u-romki-47/19292/index.m3u8
-#EXTINF:-1  tvg-id="fresh-kids" tvg-logo="https://epg.iptvx.one/picons/fresh-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Fresh Kids
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/19288/index.m3u8
 #EXTINF:-1  tvg-id="cineman-top" tvg-logo="https://epg.iptvx.one/picons/cineman-top.png" group-title="КИНО И СЕРИАЛЫ", CineMan Top
 https://tinyurl.com/aleks-u-romki-47/11005/index.m3u8
 #EXTINF:-1  tvg-id="cineman-action" tvg-logo="https://epg.iptvx.one/picons/cineman-action.png" group-title="КИНО И СЕРИАЛЫ", CineMan Action
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11006/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="РУССКОЕ КИНО", Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="fresh-kids" tvg-logo="https://epg.iptvx.one/picons/fresh-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Fresh Kids
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/19288/index.m3u8
 
 #EXTINF:-1  tvg-id="bcu-action" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Action HD
 https://tinyurl.com/aleks-u-romki-47/11027/index.m3u8
 #EXTINF:-1  tvg-id="bcu-cinema" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Cinema HD
 https://tinyurl.com/aleks-u-romki-40/11029/index.m3u8
-#EXTINF:-1  tvg-id="bcu-russian" tvg-logo="https://iptvx.one/picons/bcu-russian.png" group-title="РУССКОЕ КИНО", BCU Russian HD
-http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11041/index.m3u8
 #EXTINF:-1  tvg-id="bcu-fantastic" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" group-title="КИНО И СЕРИАЛЫ", BCU Fantastic HD
 https://tinyurl.com/aleks-u-romki-40/11032/index.m3u8
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
@@ -117,10 +101,6 @@ https://tinyurl.com/aleks-u-romki-40/11036/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/17023/index.m3u8
 
-#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", IPTVPLAY ФАНТАСТИКА
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", IPTVPLAY УЖАСТИК
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", IPTVPLAY МУЛЬТ
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
@@ -138,8 +118,7 @@ http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/15092/index.m3u8
 #EXTINF:-1  tvg-id="liberty-disney" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дисней FHD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/15093/index.m3u8
 
-#EXTINF:-1  tvg-id="yosso-rusfilm" tvg-logo="https://iptvx.one/picons/yosso-rusfilm.png" group-title="РУССКОЕ КИНО", Yosso TV Русские Фильмы
-https://tinyurl.com/aleks-u-romki-40/14174/index.m3u8
+
 #EXTINF:-1  tvg-id="yosso-best" tvg-logo="https://iptvx.one/picons/yosso-best.png" group-title="КИНО И СЕРИАЛЫ", Yosso TV Best
 https://tinyurl.com/aleks-u-romki-47/14236/index.m3u8
 #EXTINF:-1  tvg-id="yosso-adventure" tvg-logo="https://iptvx.one/picons/yosso-adventure.png" group-title="КИНО И СЕРИАЛЫ", Yosso Adventure
@@ -167,12 +146,29 @@ http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Video_Prokat FHD
 http://kinowalk.hopto.org/video_prokat_live
 
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Action
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3077/stream.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Comedy
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3079/stream.m3u8
+#EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", AlisaTV Anime
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3092/stream.m3u8
+#EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", AlisaTV Disney/Pixar
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3068/stream.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Fantastic
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3062/stream.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Fantasy
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3065/stream.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Franchise
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3078/stream.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Romantic
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3061/stream.m3u8
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Thriller
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3107/stream.m3u8
+
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", EroLuxe Henati
 http://cdntv.online/high/ierw63qgf1/1693.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", EroLuxe Step Family
 http://cdntv.online/high/ierw63qgf1/1703.m3u8
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", Bratty Sis
-https://tinyurl.com/aleks-u-romki-47/12161/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX FM Therapy 1
 http://oacost.vivotv.vip:80/VillaCanariaLuna/d9nxo3cgd4/1991915
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX FM Therapy 2
@@ -183,3 +179,12 @@ http://oacost.vivotv.vip:80/VillaCanariaLuna/d9nxo3cgd4/1991917
 http://oacost.vivotv.vip:80/VillaCanariaLuna/d9nxo3cgd4/1991918
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX FM Therapy 5
 http://oacost.vivotv.vip:80/VillaCanariaLuna/d9nxo3cgd4/1991919
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", 01
+http://dns.fontedecanais.com.br:80/playercodestv/947942/1286441
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", 02
+http://dns.fontedecanais.com.br:80/playercodestv/947942/1286442
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", 03
+http://dns.fontedecanais.com.br:80/playercodestv/947942/1286443
+#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", 04
+http://dns.fontedecanais.com.br:80/playercodestv/947942/1286444
+
