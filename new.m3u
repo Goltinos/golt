@@ -146,25 +146,6 @@ http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Video_Prokat FHD
 http://kinowalk.hopto.org/video_prokat_live
 
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Action
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3077/stream.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Comedy
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3079/stream.m3u8
-#EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", AlisaTV Anime
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3092/stream.m3u8
-#EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", AlisaTV Disney/Pixar
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3068/stream.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Fantastic
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3062/stream.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Fantasy
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3065/stream.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Franchise
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3078/stream.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Romantic
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3061/stream.m3u8
-#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", AlisaTV Thriller
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/3107/stream.m3u8
-
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", EroLuxe Henati
 http://cdntv.online/high/ierw63qgf1/1693.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", EroLuxe Step Family
