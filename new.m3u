@@ -57,14 +57,14 @@ http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/200/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://epgx.site/p/vip-megahit.png" group-title="КИНО И СЕРИАЛЫ", VIP MEGAHIT HD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/201/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epgx.site/p/kino-tv.png" group-title="КИНО И СЕРИАЛЫ", КИНО ТВ
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/732/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/732/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://i.ibb.co/wMKKL9r/c9c6feb88adb52d305f886c6af1cf201.png" group-title="КИНО И СЕРИАЛЫ", КИНОПОКАЗ
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png" group-title="КИНО И СЕРИАЛЫ", КОМЕДИЯ
 http://stream.mcquack.net/68/index.m3u8
 
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.ibb.co/sVJRrqm/KVN-TV-b.jpg" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", КВН ТВ
-http://158.101.222.193:88/georgia_play.php?id=kvntv
+http://31.210.208.171:8080/kvn_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-logo="https://i.ibb.co/qyF0n0J/Tvoyo-TV-220x220.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor"tvg-logo="https://i.postimg.cc/wMm8WXyb/e13c75da2663c549198b604af6526247.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТВОЕ ТВ HD - ЮМОР
@@ -87,17 +87,17 @@ https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/425/index.m3u8
 
 #EXTINF:-1  tvg-id="bcu-action" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Action HD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/11027/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11027/index.m3u8
 #EXTINF:-1  tvg-id="bcu-cinema" tvg-logo="https://epg.iptvx.one/picons/bcu-action.png" group-title="КИНО И СЕРИАЛЫ", BCU Cinema HD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/11029/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11029/index.m3u8
 #EXTINF:-1  tvg-id="bcu-fantastic" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" group-title="КИНО И СЕРИАЛЫ", BCU Fantastic HD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/11032/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11032/index.m3u8
 #EXTINF:-1  tvg-id="bcu-marvel" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="КИНО И СЕРИАЛЫ", BCU Marvel HD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11038/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids" tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids HD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11035/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-plus" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids+ HD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/11036/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11036/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-4k" tvg-logo="https://iptvx.one/picons/bcu-kids-4k.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/17023/index.m3u8
 
@@ -112,28 +112,27 @@ http://stream.skaz.tv/stream/ch2600/0ab8f2d4/mono.m3u8
 #EXTINF:-1  tvg-id="liberty-dreamworks" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дрим воркс FHD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/31661/index.m3u8
 #EXTINF:-1  tvg-id="liberty-mult" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Мульт FHD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/18051/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/18051/index.m3u8
 #EXTINF:-1  tvg-id="liberty-pixar" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Пиксар FHD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/15092/index.m3u8
 #EXTINF:-1  tvg-id="liberty-disney" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Liberty Дисней FHD
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/15093/index.m3u8
 
-
 #EXTINF:-1  tvg-id="yosso-best" tvg-logo="https://iptvx.one/picons/yosso-best.png" group-title="КИНО И СЕРИАЛЫ", Yosso TV Best
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/14236/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/14236/index.m3u8
 #EXTINF:-1  tvg-id="yosso-adventure" tvg-logo="https://iptvx.one/picons/yosso-adventure.png" group-title="КИНО И СЕРИАЛЫ", Yosso Adventure
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/15510/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/15510/index.m3u8
 #EXTINF:-1  tvg-id="yosso-kids" tvg-logo="https://epg.iptvx.one/picons/yosso-kids.png" group-title="МУЛЬТФИЛЬМ И АНИМЕ", Yosso Kids
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/14173/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/14173/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Супергерои HD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/13056/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/13056/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Приключения HD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/13048/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/13048/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Боевик HD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/13028/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/13028/index.m3u8
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", MM Боевик Classic HD
-http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/13027/index.m3u8
+http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/13027/index.m3u8
 
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Cinema Time FHD
 http://kinowalk.hopto.org/cinematime_live
@@ -145,27 +144,10 @@ http://kinowalk.hopto.org/timetomovie_live
 http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", Video_Prokat FHD
 http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1  tvg-id="0000" tvg-logo="0000.png" group-title="КИНО И СЕРИАЛЫ", KinoNonStop FHD
+http://kinowalk.hopto.org/nonestopmovie_live
 
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", EroLuxe Henati
 http://cdntv.online/high/ierw63qgf1/1693.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", EroLuxe Step Family
 http://cdntv.online/high/ierw63qgf1/1703.m3u8
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX FM Therapy 1
-http://oacost.vivotv.vip:80/VillaCanariaLuna/d9nxo3cgd4/1991915
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX FM Therapy 2
-http://oacost.vivotv.vip:80/VillaCanariaLuna/d9nxo3cgd4/1991916
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX FM Therapy 3
-http://oacost.vivotv.vip:80/VillaCanariaLuna/d9nxo3cgd4/1991917
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX FM Therapy 4
-http://oacost.vivotv.vip:80/VillaCanariaLuna/d9nxo3cgd4/1991918
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", XXX FM Therapy 5
-http://oacost.vivotv.vip:80/VillaCanariaLuna/d9nxo3cgd4/1991919
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", 01
-http://dns.fontedecanais.com.br:80/playercodestv/947942/1286441
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", 02
-http://dns.fontedecanais.com.br:80/playercodestv/947942/1286442
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", 03
-http://dns.fontedecanais.com.br:80/playercodestv/947942/1286443
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", 04
-http://dns.fontedecanais.com.br:80/playercodestv/947942/1286444
-
