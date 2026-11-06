@@ -101,9 +101,6 @@ http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/11036/index.m3u8
 #EXTINF:-1  tvg-id="bcu-kids-4k" group-title="МУЛЬТФИЛЬМ И АНИМЕ", BCU Kids 4K
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/17023/index.m3u8
 
-#EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", IPTVPLAY МУЛЬТ
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-
 #EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", VeleS Movie Hits
 http://obtkgj9c.ottclub.xyz/iptv/DCC56LFVHZ6LZZ/31644/index.m3u8
 #EXTINF:-1  tvg-id="0000" group-title="МУЛЬТФИЛЬМ И АНИМЕ", VeleS Kids
@@ -144,11 +141,27 @@ http://kinowalk.hopto.org/timetomovie_live
 http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", Video_Prokat FHD
 http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", Мы из 90-х
+http://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", KinoJam
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", Малдер Мегахит HD
+http://kinowalk.hopto.org/maldrvsetv_live
+#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", Эквилибриум
+http://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", КОМЕДИИ 24/7
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", Дикарка
+http://kinowalk.hopto.org/dikarka_live
+#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", LifeZ
+http://kinowalk.hopto.org/zhekos_live
+#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", MovieToper
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1  tvg-id="0000" group-title="КИНО И СЕРИАЛЫ", KinoWalk
+http://kinowalk.hopto.org/kinowalk_live
 
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", EroLuxe Henati
 http://cdntv.online/high/ierw63qgf1/1693.m3u8
-#EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", VIP: MOMS FAMILY SECRETS
-http://whrjgybbddy.top:80/357067644/165764941/1820986.ts
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", VIP: FAMILY THERAPY
 http://whrjgybbddy.top:80/357067644/165764941/1820946.ts
 #EXTINF:-1  tvg-id="0000" group-title="ТЕСТ", 24/7 XXX FM Therapy 1
